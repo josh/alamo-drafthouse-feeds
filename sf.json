@@ -2,271 +2,316 @@
     "version": "https://jsonfeed.org/version/1.1",
     "title": "Alamo Drafthouse Cinema | San Francisco",
     "home_page_url": "https://drafthouse.com/sf",
+    "feed_url": "https://josh.github.io/alamo-drafthouse-feeds/sf.json",
     "icon": "https://drafthouse.com/s/res/images/favicons/apple-touch-icon-180x180.png",
     "items": [
         {
-            "id": "b0a4ac8d-f958-4bcc-92ad-87526d42628e",
+            "id": "7c0ceced-fc18-480f-9fa2-d4ecb4200729",
             "url": "https://drafthouse.com/sf/show/a-quiet-place-day-one",
             "title": "A Quiet Place: Day One",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/a-quiet-place-day-one/A-QUIET-PLACE-DAY-ONE_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5213&fp-y=0.1821&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 27</p>\n<p>Shushing has never been more vital</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/a-quiet-place-day-one/A-QUIET-PLACE-DAY-ONE_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5213&fp-y=0.1821&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 27</p>\n<p>Shushing has never been more vital</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "91408621-12e0-4ef0-a791-fa0bb2f1f763",
+            "id": "8a736a77-c37b-4583-97bb-14a334ffd680",
             "url": "https://drafthouse.com/sf/show/aggro-dr1ft",
             "title": "Aggro Dr1ft",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/aggro-dr1ft/AGGRO-DR1FT_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.3966&fp-y=0.2131&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>A new film from Harmony Korine</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/aggro-dr1ft/AGGRO-DR1FT_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.3966&fp-y=0.2131&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>A new film from Harmony Korine</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "5b66178b-a03b-4df8-8b2e-560c9a635bf2",
+            "id": "a4865052-17dc-4665-8743-c534a65623aa",
             "url": "https://drafthouse.com/sf/show/babes",
             "title": "Babes",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/babes/BABES_hero2.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Ilana Glazer discovers the (often gross) joys of motherhood</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/babes/BABES_hero2.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Ilana Glazer discovers the (often gross) joys of motherhood</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "79824d16-d256-4a16-965d-e978ae428301",
+            "id": "fe9ebe18-08eb-46f7-8ab6-eca2a3bedf83",
             "url": "https://drafthouse.com/sf/show/back-to-the-future-part-ii",
             "title": "Back to the Future Part II",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/back-to-the-future-part-ii/Back-to-the-Future-II-Hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Marty and Doc are back and headed to the future world of...2015!</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/back-to-the-future-part-ii/Back-to-the-Future-II-Hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Marty and Doc are back and headed to the future world of...2015!</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "16ff095c-d651-463d-b495-2ce16edc27e1",
+            "id": "b9414a4a-cf34-4e2a-928c-0b0e7eb69da5",
             "url": "https://drafthouse.com/sf/show/back-to-the-future-part-iii",
             "title": "Back to the Future Part III",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/back-to-the-future-part-iii/igaRMweCynEGoS6w4Rsim7JPnKu.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>They've saved the best trip for last...</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/back-to-the-future-part-iii/igaRMweCynEGoS6w4Rsim7JPnKu.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>They've saved the best trip for last...</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "67131085-0dcd-4233-89d6-3afe20c65767",
+            "id": "b9a0ede4-4147-4e45-8b11-44579f132196",
             "url": "https://drafthouse.com/sf/show/backspot",
             "title": "Backspot",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/backspot/BACKSPOT_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>A cheerleader is faced with new adversity to succeed at the highest level</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/backspot/BACKSPOT_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>A cheerleader is faced with new adversity to succeed at the highest level</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "b5cd3282-2d5e-48b7-9685-729ce5d7c791",
+            "id": "acad7459-c612-4c5e-b595-682de794b80d",
             "url": "https://drafthouse.com/sf/show/born-on-the-fourth-of-july",
             "title": "Born on the Fourth of July",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/born-on-the-fourth-of-july/3nx1jkMcWlcjmlDgEDFzW1Tykv0.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 30</p>\n<p>A story of innocence lost and courage found</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/born-on-the-fourth-of-july/3nx1jkMcWlcjmlDgEDFzW1Tykv0.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 30</p>\n<p>A story of innocence lost and courage found</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "c3594e88-8086-424e-bda5-32e01c44ed2e",
+            "id": "50a6150c-fcbf-4e29-b1c1-aa35a794363a",
             "url": "https://drafthouse.com/sf/show/but-im-a-cheerleader",
             "title": "But I'm a Cheerleader",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/but-im-a-cheerleader/BUT-IM-A-CHEERLEADER_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 10</p>\n<p>A comedy of sexual disorientation</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/but-im-a-cheerleader/BUT-IM-A-CHEERLEADER_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 10</p>\n<p>A comedy of sexual disorientation</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "cbc0b756-4aa4-4c4a-b3b9-309473508e35",
+            "id": "7c0becb5-4af0-490c-859a-47f9c27d1f09",
             "url": "https://drafthouse.com/sf/show/challengers",
             "title": "Challengers",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/challengers/CHALLENGERS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.6004&fp-y=0.2684&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Love is a game \u2013 you play to win, or you lose</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/challengers/CHALLENGERS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.6004&fp-y=0.2684&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Love is a game \u2013 you play to win, or you lose</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "659c60f8-a79e-498e-be30-9adedba6cfb4",
+            "id": "4a2e9504-3bcf-482d-a89f-53f4a2161eba",
             "url": "https://drafthouse.com/sf/show/corridor-of-mirrors",
             "title": "Corridor of Mirrors",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/corridor-of-mirrors/CORRIDOR-OF-MIRRORS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 12</p>\n<p>Post-war British gaslight noir</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/corridor-of-mirrors/CORRIDOR-OF-MIRRORS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 12</p>\n<p>Post-war British gaslight noir</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "6ec150ad-bc4d-4ee8-a015-cfa6f3ee679c",
+            "id": "59f4cf83-24a4-4525-9758-e19a076133fb",
             "url": "https://drafthouse.com/sf/show/deadpool-and-wolverine",
             "title": "Deadpool & Wolverine",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/deadpool-and-wolverine/DEADPOOL-WOLVERINE_hero2.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 25</p>\n<p>Commemorate DEADPOOL & WOLVERINE'S MCU debut with our collector's glass add-on</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/deadpool-and-wolverine/DEADPOOL-WOLVERINE_hero2.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 25</p>\n<p>Commemorate DEADPOOL & WOLVERINE'S MCU debut with our collector's glass add-on</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "ecbf0b82-2b2d-4723-adcf-d20df3575cd4",
+            "id": "dd594633-98fc-4a79-9e76-e2ab521c7765",
             "url": "https://drafthouse.com/sf/show/do-the-right-thing",
             "title": "Do The Right Thing",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/do-the-right-thing/DO-THE-RIGHT-THING_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.481&fp-y=0.4188&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 19</p>\n<p>One of the crowning works of American cinema \u2013 a Spike Lee masterpiece</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/do-the-right-thing/DO-THE-RIGHT-THING_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.481&fp-y=0.4188&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 19</p>\n<p>One of the crowning works of American cinema \u2013 a Spike Lee masterpiece</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "7143c036-4efd-4700-84b0-ae6ae1c21904",
+            "id": "026ac4f1-19b4-4ba3-9f07-543402463a63",
             "url": "https://drafthouse.com/sf/show/field-of-dreams",
             "title": "Field of Dreams",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/field-of-dreams/FIELD-OF-DREAMS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 15</p>\n<p>If you believe the impossible, the incredible can come true</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/field-of-dreams/FIELD-OF-DREAMS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 15</p>\n<p>If you believe the impossible, the incredible can come true</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "e2e8a678-2d10-4d9e-abb8-530c5e96e3cb",
+            "id": "865ab72b-c07e-4566-a6aa-c02f4094151e",
             "url": "https://drafthouse.com/sf/show/final-destination-3",
             "title": "Final Destination 3",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/final-destination-3/MV5BMDAxYjhkOTctNTk4NC00OTZkLWE1N2EtZTE5NDUxNmU3NmZmXkEyXkFqcGdeQXVyNTQ3NzY1NjI@._V1_FMjpg_UX1920.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5295&fp-y=0.3105&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 9</p>\n<p>This ride will be the death of you</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/final-destination-3/MV5BMDAxYjhkOTctNTk4NC00OTZkLWE1N2EtZTE5NDUxNmU3NmZmXkEyXkFqcGdeQXVyNTQ3NzY1NjI@._V1_FMjpg_UX1920.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5295&fp-y=0.3105&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 9</p>\n<p>This ride will be the death of you</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "fa46d790-1953-4728-bd29-7be8a285552f",
+            "id": "279835e5-2d6b-41ce-93f5-45d19a0d82f7",
             "url": "https://drafthouse.com/sf/show/furiosa-a-mad-max-saga",
             "title": "Furiosa: A Mad Max Saga",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/furiosa-a-mad-max-saga/FURIOSA_hero-updated.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4845&fp-y=0.1993&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Experience the madness of the wasteland with our pint glass + special menu</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/furiosa-a-mad-max-saga/FURIOSA_hero-updated.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4845&fp-y=0.1993&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Experience the madness of the wasteland with our pint glass + special menu</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "9951926e-d534-46a5-9c81-8765990afc0d",
+            "id": "0a0793a1-d0bb-470b-95f7-0ce993edd789",
             "url": "https://drafthouse.com/sf/show/girls-state",
             "title": "Girls State",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/girls-state/GIRLS-STATE_hero2.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 11</p>\n<p>There\u2019s something in the air \u2013 it\u2019s politics</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/girls-state/GIRLS-STATE_hero2.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 11</p>\n<p>There\u2019s something in the air \u2013 it\u2019s politics</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "4fe23914-be3d-4dc4-8032-d969b49cefb2",
+            "id": "87f5df4e-6a8f-4738-bfab-bd66a6dd66ad",
             "url": "https://drafthouse.com/sf/show/gloria-1980",
             "title": "Gloria (1980)",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/gloria-1980/GLORIA-1980_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>She's tough...but she sides with the little guy</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/gloria-1980/GLORIA-1980_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>She's tough...but she sides with the little guy</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "1ddc78d6-1d1c-47d3-8d44-0ead3d245cca",
+            "id": "d769ecc6-f069-460d-9b9f-2dbf9d656cfb",
             "url": "https://drafthouse.com/sf/show/head",
             "title": "Head",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/head/HEAD_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.3638&fp-y=0.3333&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>The Monkees\u2019 absurd counterculture comedy</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/head/HEAD_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.3638&fp-y=0.3333&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>The Monkees\u2019 absurd counterculture comedy</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "7ab72cae-cab9-41d1-9866-f929d4ac04e9",
+            "id": "8d35e666-8dc3-4f7a-8826-cc715a39902e",
             "url": "https://drafthouse.com/sf/show/hollywood-90028",
             "title": "Hollywood 90028",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/hollywood-90028/HOLLYWOOD-90028_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4043&fp-y=0.189&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 14</p>\n<p>The bizarre and terrifying story of a psychotic killer</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/hollywood-90028/HOLLYWOOD-90028_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4043&fp-y=0.189&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 14</p>\n<p>The bizarre and terrifying story of a psychotic killer</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "0f07c54f-a9dc-4079-adda-a12d3f03dad2",
+            "id": "6671a28c-7b2d-4c95-88bb-b782d52f839b",
             "url": "https://drafthouse.com/sf/show/i-know-what-you-did-last-summer",
             "title": "I Know What You Did Last Summer",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/i-know-what-you-did-last-summer/o1kmSg185OJkeVFwT1yu062weqb.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 2</p>\n<p>The creator of SCREAM brings us another sexy teen thriller</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/i-know-what-you-did-last-summer/o1kmSg185OJkeVFwT1yu062weqb.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 2</p>\n<p>The creator of SCREAM brings us another sexy teen thriller</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "8caa05b5-b349-43d4-ac72-58e040e6cd60",
+            "id": "af3ebfde-7b12-476d-aeaf-95ea446821af",
             "url": "https://drafthouse.com/sf/show/i-saw-the-tv-glow",
             "title": "I Saw the TV Glow",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/i-saw-the-tv-glow/I-SAW-THE-TV-GLOW_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.6643&fp-y=0.2835&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Two teens' escape from suburban ennui turns into a neon-soaked nightmare</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/i-saw-the-tv-glow/I-SAW-THE-TV-GLOW_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.6643&fp-y=0.2835&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Two teens' escape from suburban ennui turns into a neon-soaked nightmare</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "3967fa76-babd-4e2e-80a0-5a41dff01946",
+            "id": "d5a1993f-737d-4b7d-99af-e7714530e4ad",
             "url": "https://drafthouse.com/sf/show/in-a-violent-nature",
             "title": "In a Violent Nature",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/in-a-violent-nature/IN-A-VIOLENT-NATURE_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.6324&fp-y=0.1924&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Your new favorite slasher.</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/in-a-violent-nature/IN-A-VIOLENT-NATURE_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.6324&fp-y=0.1924&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Your new favorite slasher.</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "ea75da62-772d-430f-b071-c59a28815f5b",
+            "id": "d652c1ac-f5a4-4249-93d9-f967ece9e347",
             "url": "https://drafthouse.com/sf/show/indiana-jones-and-the-last-crusade",
             "title": "Indiana Jones and the Last Crusade",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/indiana-jones-and-the-last-crusade/last-crusade-image-01.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4916&fp-y=0.2676&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 16</p>\n<p>This time, he's bringing his dad</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/indiana-jones-and-the-last-crusade/last-crusade-image-01.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4916&fp-y=0.2676&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 16</p>\n<p>This time, he's bringing his dad</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "69c0b463-b80d-4f2e-94e1-b5f17d99937b",
+            "id": "02c000af-71ad-4828-b078-32b3156cb669",
             "url": "https://drafthouse.com/sf/show/inside-out-2",
             "title": "Inside Out 2",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/inside-out-2/Inside-Out-2-BD.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.7444&fp-y=0.2113&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 13</p>\n<p>Add some joy to your ticket with our exclusive lunchbox & thermos set</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/inside-out-2/Inside-Out-2-BD.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.7444&fp-y=0.2113&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 13</p>\n<p>Add some joy to your ticket with our exclusive lunchbox & thermos set</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "8827f63d-aa57-42a6-bf54-56c1fea55433",
+            "id": "6536d4f1-3a97-486b-87a0-bc710069e0c0",
             "url": "https://drafthouse.com/sf/show/its-such-a-beautiful-day-me",
             "title": "It's Such a Beautiful Day + ME",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/its-such-a-beautiful-day-me/ITS-SUCH-A-BEAUTIFUL-DAY_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5812&fp-y=0.2199&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Don Hertzfeldt's stunning triumph preceded by his new short film, ME</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/its-such-a-beautiful-day-me/ITS-SUCH-A-BEAUTIFUL-DAY_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5812&fp-y=0.2199&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Don Hertzfeldt's stunning triumph preceded by his new short film, ME</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "94051cb1-a7db-45ac-bf3e-8ec53af4d99a",
+            "id": "ba47341d-acb8-4c84-a4fa-98484e7517f1",
             "url": "https://drafthouse.com/sf/show/la-femme-nikita",
             "title": "La Femme Nikita",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/la-femme-nikita/LA-FEMME-NIKITA_hero-official.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>She murders. So she can live.</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/la-femme-nikita/LA-FEMME-NIKITA_hero-official.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>She murders. So she can live.</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "75375332-6dd8-476a-b257-589ea814dafa",
+            "id": "dc975801-e145-4c97-86a7-239d7d641452",
             "url": "https://drafthouse.com/sf/show/license-to-kill-1989",
             "title": "License to Kill (1989)",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/license-to-kill-1989/LICENSE-TO-KILL_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 2</p>\n<p>James Bond is out on his own and out for revenge</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/license-to-kill-1989/LICENSE-TO-KILL_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 2</p>\n<p>James Bond is out on his own and out for revenge</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "e2735645-448b-41b4-91e2-a16408310811",
+            "id": "04d5ac94-02ed-4abb-970f-6ce2e1b42c06",
             "url": "https://drafthouse.com/sf/show/mystery-manga",
             "title": "Wicked City",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/mystery-manga/MysteryManga01_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 19</p>\n<p>Some superheroes are cuter than others</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/mystery-manga/MysteryManga01_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 19</p>\n<p>Some superheroes are cuter than others</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "37363a56-aae1-40e0-80d9-d76f6f23471a",
+            "id": "0c3c7e27-4705-4f7e-901b-ca1cfae8ca2a",
             "url": "https://drafthouse.com/sf/show/spider-man-no-way-home-rerelease",
             "title": "Spider-Man: No Way Home - Re-Release",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/spider-man-no-way-home-rerelease/spider_man_no_way_home_sp_still2.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Spider-Man is back to save the Multiverse with bonus footage</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/spider-man-no-way-home-rerelease/spider_man_no_way_home_sp_still2.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Spider-Man is back to save the Multiverse with bonus footage</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "dee0c2a3-49be-4bdf-88b8-74d0df0dfdb2",
+            "id": "86b3a4ab-93bb-4f67-8006-cae21007a787",
             "url": "https://drafthouse.com/sf/show/star-trek-v-the-final-frontier",
             "title": "Star Trek V: The Final Frontier",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/star-trek-v-the-final-frontier/STAR_TREK_V_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.3918&fp-y=0.2182&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 26</p>\n<p>William Shatner goes ego-to-ego...vs. God!</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/star-trek-v-the-final-frontier/STAR_TREK_V_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.3918&fp-y=0.2182&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 26</p>\n<p>William Shatner goes ego-to-ego...vs. God!</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "e219cc1a-6073-4582-8efd-842ba38a48cc",
+            "id": "e1ba62df-1dbd-4d61-a4b6-15f7ea94edd0",
             "url": "https://drafthouse.com/sf/show/steel-magnolias",
             "title": "Steel Magnolias",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/steel-magnolias/STEEL-MAGNOLIAS_hero2.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Big hair, big laughs, and a few tears</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/steel-magnolias/STEEL-MAGNOLIAS_hero2.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Big hair, big laughs, and a few tears</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "99b75222-d4fd-4875-b814-adc717a478e2",
+            "id": "8c238ff3-3feb-4634-850c-d08c238541ce",
             "url": "https://drafthouse.com/sf/show/teen-witch",
             "title": "Teen Witch",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/teen-witch/vRfo7aDU9k10G1FUSixOCPbcBmr.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5252&fp-y=0.2491&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 12</p>\n<p>What could truly top that?</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/teen-witch/vRfo7aDU9k10G1FUSixOCPbcBmr.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5252&fp-y=0.2491&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 12</p>\n<p>What could truly top that?</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "fbb36657-7705-46ae-8654-c3442ae1fbc1",
+            "id": "5fa7b717-3828-48d8-8817-e43b835b3144",
             "url": "https://drafthouse.com/sf/show/tetsuo-the-iron-man",
             "title": "Tetsuo: The Iron Man",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/tetsuo-the-iron-man/TETSUO-THE-IRON-MAN_hero_2024-03-29-152250_dqqo.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Shinya Tsukamoto\u2019s unhinged body horror manifesto</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/tetsuo-the-iron-man/TETSUO-THE-IRON-MAN_hero_2024-03-29-152250_dqqo.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Shinya Tsukamoto\u2019s unhinged body horror manifesto</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "e3a5940f-1c83-4f6b-9d7d-c8ce9489bd62",
+            "id": "f54037a2-152b-454a-a61a-77ae622af851",
             "url": "https://drafthouse.com/sf/show/the-adventures-of-priscilla-queen-of-the-desert",
             "title": "The Adventures of Priscilla, Queen of the Desert",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-adventures-of-priscilla-queen-of-the-desert/4McQeGJKaj3nVc5z5IT9ztN252v.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 29</p>\n<p>Here she is, boys. Here she is, world. It\u2019s PRISCILLA!</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-adventures-of-priscilla-queen-of-the-desert/4McQeGJKaj3nVc5z5IT9ztN252v.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 29</p>\n<p>Here she is, boys. Here she is, world. It\u2019s PRISCILLA!</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "904c9343-5d6e-46dc-bf5d-a66f94107dcc",
+            "id": "231dd6cf-f34a-4def-9f26-6b9f0f273a6d",
             "url": "https://drafthouse.com/sf/show/the-bikeriders",
             "title": "The Bikeriders",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-bikeriders/THE-BIKERIDERS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 20</p>\n<p>Austin Butler takes us on a wild ride through violent life of a \u201860s biker gang</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-bikeriders/THE-BIKERIDERS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 20</p>\n<p>Austin Butler takes us on a wild ride through violent life of a \u201860s biker gang</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "2a64e552-a6ad-4a4b-bacf-2342f156aade",
+            "id": "92a7420a-e1cf-4601-b04f-8aa899d3febe",
             "url": "https://drafthouse.com/sf/show/the-birdcage",
             "title": "The Birdcage",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-birdcage/THE-BIRDCAGE-HERO-IMAGE.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.3624&fp-y=0.2679&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 15</p>\n<p>Robin Williams and Nathan Lane try to play it straight</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-birdcage/THE-BIRDCAGE-HERO-IMAGE.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.3624&fp-y=0.2679&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 15</p>\n<p>Robin Williams and Nathan Lane try to play it straight</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "4b44e048-07bb-4a50-ac0d-1c2f6e79beab",
+            "id": "1f51e594-f215-4e52-a5c8-ff0da87de3a1",
             "url": "https://drafthouse.com/sf/show/the-lost-boys",
             "title": "The Lost Boys",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-lost-boys/Lost-Boys-hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 11</p>\n<p>A blood-sucking \u201980s classic</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-lost-boys/Lost-Boys-hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 11</p>\n<p>A blood-sucking \u201980s classic</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "9f4801cb-e47d-4826-aa52-5c0f15f9da96",
+            "id": "4bfc5651-46fd-4da2-8344-ae1681138817",
             "url": "https://drafthouse.com/sf/show/the-ring",
             "title": "The Ring",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-ring/TheRingHero1920x1080.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4221&fp-y=0.4122&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 18</p>\n<p>Before you die, you see...the ring</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-ring/TheRingHero1920x1080.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4221&fp-y=0.4122&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 18</p>\n<p>Before you die, you see...the ring</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "68741b3c-b8cc-4842-b80b-6af46c0c79a8",
+            "id": "14dc9950-697e-42b5-8a73-0ea79fd683de",
             "url": "https://drafthouse.com/sf/show/the-watchers",
             "title": "The Watchers",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-watchers/THE-WATCHERS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5329&fp-y=0.311&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>The woods are lovely, dark, and deep \u2013 and filled with voyeuristic monsters</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-watchers/THE-WATCHERS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5329&fp-y=0.311&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>The woods are lovely, dark, and deep \u2013 and filled with voyeuristic monsters</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "59b09682-c1f0-431c-9447-60e1f8163d47",
+            "id": "1d4bf419-106b-4abb-9c57-77c708a075c7",
             "url": "https://drafthouse.com/sf/show/tie-me-up-tie-me-down",
             "title": "Tie Me Up! Tie Me Down!",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/tie-me-up-tie-me-down/bjjrVTFUsCVCQneHXUpwaq0mtkM.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 24</p>\n<p>A love story...with strings attached</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/tie-me-up-tie-me-down/bjjrVTFUsCVCQneHXUpwaq0mtkM.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 24</p>\n<p>A love story...with strings attached</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "da5fd5fe-fbed-4704-8d25-3b83dfd481a3",
+            "id": "31cdd59d-fa57-49a8-9b59-b0a2e283013d",
             "url": "https://drafthouse.com/sf/show/trouble-every-day",
             "title": "Trouble Every Day",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/trouble-every-day/TROUBLE-EVERY-DAY_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5116&fp-y=0.1512&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 25</p>\n<p>A horrific tale of sex and cannibalism from Claire Denis</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/trouble-every-day/TROUBLE-EVERY-DAY_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5116&fp-y=0.1512&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 25</p>\n<p>A horrific tale of sex and cannibalism from Claire Denis</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "7aba3118-582b-4ca5-9dca-9905ee621b69",
+            "id": "c4730d3f-b29a-40dd-85e5-7505a6ee510e",
             "url": "https://drafthouse.com/sf/show/uhf",
             "title": "UHF",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/uhf/uhf_1920x1080.jpeg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5899&fp-y=0.1684&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 26</p>\n<p>Don't touch that dial!</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/uhf/uhf_1920x1080.jpeg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5899&fp-y=0.1684&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 26</p>\n<p>Don't touch that dial!</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "6ed49972-3e63-4df2-9d19-e0504ad99b0e",
+            "id": "61680c81-41ad-465e-b389-ba5b5ce98842",
             "url": "https://drafthouse.com/sf/show/vampires-kiss",
             "title": "Vampire's Kiss",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/vampires-kiss/z0U8BFKFU0y23nnjmzn5MPrrEQU.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 21</p>\n<p>Seduction. Romance. Murder. The things one does for love...</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/vampires-kiss/z0U8BFKFU0y23nnjmzn5MPrrEQU.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 21</p>\n<p>Seduction. Romance. Murder. The things one does for love...</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
-            "id": "2a1709a5-ce5b-4316-9a77-6793e2039e77",
+            "id": "83e652f3-5350-4ec1-9b9d-5c2f4f12e01b",
             "url": "https://drafthouse.com/sf/show/zombie",
             "title": "Zombie",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/zombie/rz6bEvDbkchDu8EKJSXRRUhpxuy.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>The dead are among us.</p>"
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/zombie/rz6bEvDbkchDu8EKJSXRRUhpxuy.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>The dead are among us.</p>",
+            "date_published": "2024-06-03T09:34:15+00:00"
         }
     ]
 }
