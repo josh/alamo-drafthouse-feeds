@@ -33,3 +33,4 @@ jobs:
         run: python3 drafthouse.py sf
         env:
           CACHE_PATH: cache.pickle
+          CACHE_MAX: 500
