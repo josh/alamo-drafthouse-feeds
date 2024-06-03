@@ -22,6 +22,7 @@ class Feed(TypedDict):
     version: Literal["https://jsonfeed.org/version/1.1"]
     title: str
     home_page_url: str
+    feed_url: str
     icon: str
     items: list[FeedItem]
 
@@ -79,6 +80,7 @@ def main(
         "version": "https://jsonfeed.org/version/1.1",
         "title": f"Alamo Drafthouse Cinema | {market_name}",
         "home_page_url": f"https://drafthouse.com/{market_slug}",
+        "feed_url": f"https://josh.github.io/alamo-drafthouse-feeds/{market_slug}.json",
         "icon": "https://drafthouse.com/s/res/images/favicons/apple-touch-icon-180x180.png",
         "items": [],
     }
