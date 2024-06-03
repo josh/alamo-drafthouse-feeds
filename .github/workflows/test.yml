@@ -6,7 +6,7 @@ env:
   CACHE_DIR: .cache/
 
 jobs:
-  process:
+  test:
     runs-on: ubuntu-latest
 
     steps:
