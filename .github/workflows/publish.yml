@@ -45,12 +45,13 @@ jobs:
 
       - name: Generate feeds
         run: |
-          python drafthouse.py chicago --output-file public/chicago.json
-          python drafthouse.py los-angeles --output-file public/los-angeles.json
-          python drafthouse.py nyc --output-file public/nyc.json
-          python drafthouse.py sf --output-file public/sf.json
+          IFS=',' read -r -a regions_array <<< "$REGIONS"
+          for region in "${regions_array[@]}"; do
+            python drafthouse.py "$region" --output-file "public/$region.json"
+          done
         env:
           CACHE_PATH: cache.pickle
+          REGIONS: chicago,los-angeles,nyc,sf
 
       - name: Commit changes
         run: |
