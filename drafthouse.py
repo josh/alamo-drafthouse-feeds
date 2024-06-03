@@ -35,8 +35,6 @@ _DRAFTHOUSE_RECOMMENDS_BADGE = (
     "Drafthouse Recommends</a>"
 )
 
-_CACHE_MAX_BYTESIZE = lru_cache.bytesize(mb=1)
-
 _MARKETS = [
     "chicago",
     "los-angeles",
@@ -56,17 +54,19 @@ _MARKETS = [
     type=click.Path(writable=True, path_type=Path),
     required=True,
 )
+@click.option("--cache-max", envvar="CACHE_MAX", type=int, default=100)
 @click.option("--verbose", "-v", is_flag=True)
 def main(
     market: str,
     output_file: io.TextIOWrapper,
     cache_path: Path,
+    cache_max: int,
     verbose: bool,
 ) -> None:
     log_level = logging.DEBUG if verbose else logging.INFO
     logging.basicConfig(level=log_level)
 
-    cache = lru_cache.open(cache_path, max_bytesize=_CACHE_MAX_BYTESIZE)
+    cache = lru_cache.open(cache_path, max_items=cache_max)
 
     api_url = f"https://drafthouse.com/s/mother/v2/schedule/market/{market}"
     logger.info("Fetch %s", api_url)
