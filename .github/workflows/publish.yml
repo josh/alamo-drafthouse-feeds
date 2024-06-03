@@ -51,7 +51,7 @@ jobs:
           done
         env:
           CACHE_PATH: cache.pickle
-          CACHE_MAX: 500
+          CACHE_MAX: 1000
           REGIONS: chicago,los-angeles,nyc,sf
 
       - name: Commit changes
