@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  process:
+  publish:
     runs-on: ubuntu-latest
     concurrency: publish
 
