@@ -1,7 +1,7 @@
 import io
 import json
 import logging
-from datetime import date
+from datetime import UTC, date, datetime
 from pathlib import Path
 from typing import Any, Literal, TypedDict
 from uuid import uuid4
@@ -16,6 +16,7 @@ class FeedItem(TypedDict):
     url: str
     title: str
     content_html: str
+    date_published: str
 
 
 class Feed(TypedDict):
@@ -129,13 +130,16 @@ def main(
         content_html_parts.append(f"<p>{show['headline']}</p>")
         content_html = "\n".join(content_html_parts)
 
-        feed_id = cache.get_or_load(("id", url), load_value=lambda: str(uuid4()))
+        feed_id, date_published = cache.get_or_load(
+            ("metadata", url), load_value=lambda: (str(uuid4()), _rfc3339_now())
+        )
 
         item: FeedItem = {
             "id": feed_id,
             "url": url,
             "title": show["title"],
             "content_html": content_html,
+            "date_published": date_published,
         }
         feed["items"].append(item)
 
@@ -143,6 +147,10 @@ def main(
     cache.close()
 
     json.dump(feed, output_file, indent=4)
+
+
+def _rfc3339_now() -> str:
+    return datetime.now(UTC).replace(microsecond=0).isoformat()
 
 
 def _item_opening_date(
