@@ -27,6 +27,13 @@
             "date_published": "2024-06-03T09:36:02+00:00"
         },
         {
+            "id": "54cb4b07-5822-430a-af0c-db48ea97d51b",
+            "url": "https://drafthouse.com/los-angeles/show/art-college-1994",
+            "title": "Art College 1994",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/art-college-1994/ART-COLLEGE-1994_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5213&fp-y=0.4296&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 5</p>\n<p>A group of Chinese art students in the 1990s begin their adulthood</p>",
+            "date_published": "2024-06-04T10:05:29+00:00"
+        },
+        {
             "id": "f720dd64-4816-4496-ab4b-366a15fe1a32",
             "url": "https://drafthouse.com/los-angeles/show/babes",
             "title": "Babes",
@@ -179,6 +186,13 @@
             "title": "Haikyu!! The Dumpster Battle (Subtitled)",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/haikyu-the-dumpster-battle-subtitled/HAIKYU-The-Dumpster-Battle_Still-1.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>The long-standing rivalry finally reaches a conclusion</p>",
             "date_published": "2024-06-03T09:36:02+00:00"
+        },
+        {
+            "id": "b6cbf98a-6fc7-4d6b-9530-ecc3875e4d6c",
+            "url": "https://drafthouse.com/los-angeles/show/harry-potter-and-the-sorcerers-stone",
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/harry-potter-and-the-sorcerers-stone/hp_sorcerors_stone_sp_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5475&fp-y=0.0285&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 18</p>\n<p>We're headed to Platform 9 3/4 to start this magical journey from the beginning</p>",
+            "date_published": "2024-06-04T10:05:29+00:00"
         },
         {
             "id": "82c09c73-7ff8-4c57-a497-06326c2792b2",
@@ -375,6 +389,13 @@
             "title": "The Birdcage",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-birdcage/THE-BIRDCAGE-HERO-IMAGE.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.3624&fp-y=0.2679&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 15</p>\n<p>Robin Williams and Nathan Lane try to play it straight</p>",
             "date_published": "2024-06-03T09:36:02+00:00"
+        },
+        {
+            "id": "6b3ccd28-594e-4473-a8a8-50eb10481e30",
+            "url": "https://drafthouse.com/los-angeles/show/the-dragon-lives-again",
+            "title": "The Dragon Lives Again",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-dragon-lives-again/THE-DRAGON-LIVES-AGAIN_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.6797&fp-y=0.1632&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 5</p>\n<p>Not even death can stop Bruce Lee!</p>",
+            "date_published": "2024-06-04T10:05:29+00:00"
         },
         {
             "id": "1e99ef38-632f-4983-8ca2-cea83edd4a59",
