@@ -69,6 +69,13 @@
             "date_published": "2024-06-03T09:36:02+00:00"
         },
         {
+            "id": "64a669d1-4f34-49f3-a0a3-a473cdb98323",
+            "url": "https://drafthouse.com/nyc/show/body-melt",
+            "title": "Body Melt",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/body-melt/Body_Melt_1993_007.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 23</p>\n<p>...and the third phase is...BODY MELT</p>",
+            "date_published": "2024-06-04T06:06:14+00:00"
+        },
+        {
             "id": "727de8d2-198a-4353-ae21-af18cdb9dd42",
             "url": "https://drafthouse.com/nyc/show/born-on-the-fourth-of-july",
             "title": "Born on the Fourth of July",
@@ -195,6 +202,13 @@
             "date_published": "2024-06-03T09:36:02+00:00"
         },
         {
+            "id": "b210e39b-d812-4102-9c12-c9fe2196d449",
+            "url": "https://drafthouse.com/nyc/show/gums",
+            "title": "GUMS",
+            "content_html": "<p>Jul 3</p>\n<p>None</p>",
+            "date_published": "2024-06-04T06:06:14+00:00"
+        },
+        {
             "id": "e9bf5f59-fcdd-4c5c-a06a-d03d41ef50a9",
             "url": "https://drafthouse.com/nyc/show/haikyu-the-dumpster-battle-dubbed",
             "title": "Haikyu!! The Dumpster Battle (Dubbed)",
@@ -279,6 +293,13 @@
             "date_published": "2024-06-03T09:36:02+00:00"
         },
         {
+            "id": "eae39a2d-af41-44f9-88f7-ab8e26152bc7",
+            "url": "https://drafthouse.com/nyc/show/jason-x",
+            "title": "Jason X",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/jason-x/HeroImage_JasonX.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 16</p>\n<p>Blast off with Jason Voorhees and his robo-machete</p>",
+            "date_published": "2024-06-04T06:06:14+00:00"
+        },
+        {
             "id": "beb052b4-259f-426a-a5ea-6d94960243f3",
             "url": "https://drafthouse.com/nyc/show/jaws-1975",
             "title": "Jaws (1975)",
@@ -342,6 +363,13 @@
             "date_published": "2024-06-03T09:36:02+00:00"
         },
         {
+            "id": "d142233e-5db9-4c4d-8736-285c727e1006",
+            "url": "https://drafthouse.com/nyc/show/noroi-the-curse",
+            "title": "Noroi: The Curse",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/noroi-the-curse/HeroImage_Noroi.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4961&fp-y=0.2852&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 9</p>\n<p>Haunting analog horror from Japan</p>",
+            "date_published": "2024-06-04T06:06:14+00:00"
+        },
+        {
             "id": "de4b0260-5271-4f2b-86a3-c42b6e921dff",
             "url": "https://drafthouse.com/nyc/show/pet-sematary",
             "title": "Pet Sematary (1989)",
@@ -368,6 +396,13 @@
             "title": "Season of the Witch (1972)",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/season-of-the-witch-1972/SEASON-OF-THE-WITCH-1972_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 11</p>\n<p>George Romero's feminist occult shocker</p>",
             "date_published": "2024-06-03T09:36:02+00:00"
+        },
+        {
+            "id": "87cd1a43-3e39-4719-9f45-674eb1a91aef",
+            "url": "https://drafthouse.com/nyc/show/sleepaway-camp",
+            "title": "Sleepaway Camp",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/sleepaway-camp/SLEEPAWAY-CAMP_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.3274&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 2</p>\n<p>\u2026you won't be coming home!</p>",
+            "date_published": "2024-06-04T06:06:14+00:00"
         },
         {
             "id": "f84fa4df-b34e-4df1-abb0-ac4f30fb60f0",
@@ -410,6 +445,13 @@
             "title": "SLUMBER PARTY MASSACRE II",
             "content_html": "<p>The driller killer invades in this slasher freakout!</p>",
             "date_published": "2024-06-03T09:36:02+00:00"
+        },
+        {
+            "id": "d7298cce-0efc-420e-b8cd-d3daf7082853",
+            "url": "https://drafthouse.com/nyc/show/terror-tuesday-the-zodiac-killer",
+            "title": "THE ZODIAC KILLER",
+            "content_html": "<p>Jul 30</p>\n<p>None</p>",
+            "date_published": "2024-06-04T06:06:14+00:00"
         },
         {
             "id": "a2e38f3c-ddfd-450b-9bbe-f10b9ae9f9c4",
@@ -522,6 +564,13 @@
             "title": "Vampire's Kiss",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/vampires-kiss/z0U8BFKFU0y23nnjmzn5MPrrEQU.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 21</p>\n<p>Seduction. Romance. Murder. The things one does for love...</p>",
             "date_published": "2024-06-03T09:36:02+00:00"
+        },
+        {
+            "id": "1044c7c8-150a-4395-b60b-73f75630bee8",
+            "url": "https://drafthouse.com/nyc/show/weird-wednesday-the-4th-man",
+            "title": "THE 4TH MAN",
+            "content_html": "<p>Jul 17</p>\n<p>None</p>",
+            "date_published": "2024-06-04T06:06:14+00:00"
         },
         {
             "id": "ccc4ed1d-2877-49a1-9a39-0fd3d3a75797",
