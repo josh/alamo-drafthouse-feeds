@@ -132,13 +132,6 @@
             "date_published": "2024-06-03T09:36:02+00:00"
         },
         {
-            "id": "3ab5d5e0-0793-4c7d-9fc6-edb05ba1e1d5",
-            "url": "https://drafthouse.com/nyc/show/drugstore-cowboy",
-            "title": "Drugstore Cowboy",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/drugstore-cowboy/DRUGSTORE-COWBOY_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>A pharmacy-robbing dope fiend and his crew pop pills and evade the law</p>",
-            "date_published": "2024-06-03T09:36:02+00:00"
-        },
-        {
             "id": "09e43544-b19e-4a97-af84-3eda85cb7a8c",
             "url": "https://drafthouse.com/nyc/show/e-t-the-extra-terrestrial",
             "title": "E.T. the Extra-Terrestrial",
@@ -522,6 +515,13 @@
             "title": "The Neverending Story",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-neverending-story/xBtv6lhvBGAVfMBZVtnb7IKHrFi.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 19</p>\n<p>Keep the magic alive</p>",
             "date_published": "2024-06-03T09:36:02+00:00"
+        },
+        {
+            "id": "12e4d7a7-1da8-426a-8eff-91ab7be87667",
+            "url": "https://drafthouse.com/nyc/show/the-new-york-ripper",
+            "title": "The New York Ripper",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-new-york-ripper/NYCRipperImage.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.6351&fp-y=0.1787&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 10</p>\n<p>Lucio Fulci terrorizes the streets of NYC</p>",
+            "date_published": "2024-06-05T18:05:47+00:00"
         },
         {
             "id": "34121028-8114-475f-8604-37b1109ce1d7",
