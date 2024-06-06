@@ -27,6 +27,13 @@
             "date_published": "2024-06-03T09:36:01+00:00"
         },
         {
+            "id": "40075523-5aab-4801-a19e-62e2d59b7f45",
+            "url": "https://drafthouse.com/chicago/show/art-college-1994",
+            "title": "Art College 1994",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/art-college-1994/ART-COLLEGE-1994_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5213&fp-y=0.4296&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 5</p>\n<p>A group of Chinese art students in the 1990s begin their adulthood</p>",
+            "date_published": "2024-06-06T01:30:33+00:00"
+        },
+        {
             "id": "c57e6b4c-eef4-4019-adc1-0cee849edd8f",
             "url": "https://drafthouse.com/chicago/show/babes",
             "title": "Babes",
@@ -76,6 +83,20 @@
             "date_published": "2024-06-03T09:36:01+00:00"
         },
         {
+            "id": "2217ddba-080b-4469-a05d-e2d5185e8cb5",
+            "url": "https://drafthouse.com/chicago/show/chestnut",
+            "title": "Chestnut",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/chestnut/Chestnut_FS_019.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 29</p>\n<p>Following college graduation, a woman finds herself in a love triangle</p>",
+            "date_published": "2024-06-06T01:30:33+00:00"
+        },
+        {
+            "id": "3596ca7d-4cb8-4ff9-9bed-77de3632589b",
+            "url": "https://drafthouse.com/chicago/show/crimes-of-passion",
+            "title": "Crimes of Passion",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/crimes-of-passion/crimes_of_passion_sp_still.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 22</p>\n<p>She is watched. She is worshipped. And she must remain a mystery.</p>",
+            "date_published": "2024-06-06T01:30:33+00:00"
+        },
+        {
             "id": "322b9a21-f403-437a-a6e4-c30c4fb995c7",
             "url": "https://drafthouse.com/chicago/show/deadpool-and-wolverine",
             "title": "Deadpool & Wolverine",
@@ -88,6 +109,13 @@
             "title": "Despicable Me 4",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/despicable-me-4/DESPICABLE-ME-4_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.386&fp-y=0.3247&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 3</p>\n<p>Gru faces a new enemy to save his family, including its new member \u2013 Gru Jr.</p>",
             "date_published": "2024-06-05T12:07:58+00:00"
+        },
+        {
+            "id": "71da6437-c726-4b0e-84b2-3038748d19a3",
+            "url": "https://drafthouse.com/chicago/show/disco-boy",
+            "title": "Disco Boy",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/disco-boy/DISCO-BOY_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4971&fp-y=0.3351&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 14</p>\n<p>The lives of a guerrilla fighter and a French Foreign Legion soldier intertwine</p>",
+            "date_published": "2024-06-06T01:30:33+00:00"
         },
         {
             "id": "3fbdea00-7531-4fbe-8701-4e1b7851f044",
@@ -223,6 +251,13 @@
             "date_published": "2024-06-03T09:36:01+00:00"
         },
         {
+            "id": "0327c48a-2c9d-4c1f-92f3-6b419dda3264",
+            "url": "https://drafthouse.com/chicago/show/july-rhapsody",
+            "title": "July Rhapsody",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/july-rhapsody/JULY-RHAPSODY_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 30</p>\n<p>A man feels dissatisfaction deep down despite seeming to have it all</p>",
+            "date_published": "2024-06-06T01:30:33+00:00"
+        },
+        {
             "id": "d1918a65-ae35-42ca-afb3-6b31f8c5a706",
             "url": "https://drafthouse.com/chicago/show/late-night-with-the-devil",
             "title": "Late Night with the Devil",
@@ -290,13 +325,6 @@
             "url": "https://drafthouse.com/chicago/show/teen-witch",
             "title": "Teen Witch",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/teen-witch/vRfo7aDU9k10G1FUSixOCPbcBmr.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5252&fp-y=0.2491&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 12</p>\n<p>What could truly top that?</p>",
-            "date_published": "2024-06-03T09:36:01+00:00"
-        },
-        {
-            "id": "f94968b0-6a72-4366-bfe6-7727d9512b01",
-            "url": "https://drafthouse.com/chicago/show/tetsuo-the-iron-man",
-            "title": "Tetsuo: The Iron Man",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/tetsuo-the-iron-man/TETSUO-THE-IRON-MAN_hero_2024-03-29-152250_dqqo.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Shinya Tsukamoto\u2019s unhinged body horror manifesto</p>",
             "date_published": "2024-06-03T09:36:01+00:00"
         },
         {
