@@ -48,6 +48,13 @@
             "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
+            "id": "d0a0f37f-0260-4ca0-abe8-f344a53b8bf4",
+            "url": "https://drafthouse.com/sf/show/black-caesar",
+            "title": "BLACK CAESAR",
+            "content_html": "<p>Jul 17</p>\n<p>Larry Cohen's gangster tragedy with a score by James Brown</p>",
+            "date_published": "2024-06-06T09:06:24+00:00"
+        },
+        {
             "id": "acad7459-c612-4c5e-b595-682de794b80d",
             "url": "https://drafthouse.com/sf/show/born-on-the-fourth-of-july",
             "title": "Born on the Fourth of July",
@@ -81,6 +88,13 @@
             "title": "Corridor of Mirrors",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/corridor-of-mirrors/CORRIDOR-OF-MIRRORS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 12</p>\n<p>Post-war British gaslight noir</p>",
             "date_published": "2024-06-03T09:34:15+00:00"
+        },
+        {
+            "id": "c3244c61-c380-4095-aec3-f66879d33b6f",
+            "url": "https://drafthouse.com/sf/show/crimes-of-passion",
+            "title": "Crimes of Passion",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/crimes-of-passion/crimes_of_passion_sp_still.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 22</p>\n<p>She is watched. She is worshipped. And she must remain a mystery.</p>",
+            "date_published": "2024-06-06T09:06:24+00:00"
         },
         {
             "id": "59f4cf83-24a4-4525-9758-e19a076133fb",
@@ -298,6 +312,13 @@
             "title": "The Watchers",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-watchers/THE-WATCHERS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5329&fp-y=0.311&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>The woods are lovely, dark, and deep \u2013 and filled with voyeuristic monsters</p>",
             "date_published": "2024-06-03T09:34:15+00:00"
+        },
+        {
+            "id": "a7b628e2-26d9-4077-9503-11d1a1aadd4a",
+            "url": "https://drafthouse.com/sf/show/things-1989",
+            "title": "Things (1989)",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/things-1989/HeroImage_Things.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4517&fp-y=0.2955&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 30</p>\n<p>Conceived by a lunatic, hatched within a human womb...</p>",
+            "date_published": "2024-06-06T09:06:24+00:00"
         },
         {
             "id": "1d4bf419-106b-4abb-9c57-77c708a075c7",
