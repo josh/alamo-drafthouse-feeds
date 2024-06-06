@@ -167,6 +167,20 @@
             "date_published": "2024-06-03T09:36:01+00:00"
         },
         {
+            "id": "a3fbc950-094d-4d00-8eae-eab913f1bdf4",
+            "url": "https://drafthouse.com/chicago/show/harry-potter-and-the-chamber-of-secrets",
+            "title": "Harry Potter and the Chamber of Secrets",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/harry-potter-and-the-chamber-of-secrets/hp_chamber_of_secrets_sp_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.7076&fp-y=0.3336&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 25</p>\n<p>Something evil has returned to Hogwarts!</p>",
+            "date_published": "2024-06-06T02:16:58+00:00"
+        },
+        {
+            "id": "da505ba3-5bcb-426c-b94f-085cafa29315",
+            "url": "https://drafthouse.com/chicago/show/harry-potter-and-the-sorcerers-stone",
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/harry-potter-and-the-sorcerers-stone/hp_sorcerors_stone_sp_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5475&fp-y=0.0285&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 18</p>\n<p>We're headed to Platform 9 3/4 to start this magical journey from the beginning</p>",
+            "date_published": "2024-06-06T02:16:58+00:00"
+        },
+        {
             "id": "69ac8e43-490f-4675-aa6c-cbbe7585f53c",
             "url": "https://drafthouse.com/chicago/show/hit-man",
             "title": "Hit Man",
@@ -298,6 +312,13 @@
             "title": "Peter Pan (2003)",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/peter-pan-2003/zyWbOvKCdA9V9P5xuUG2eiPYsUo.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 5</p>\n<p>All children grow up except one</p>",
             "date_published": "2024-06-03T09:36:01+00:00"
+        },
+        {
+            "id": "9c0ced7c-6485-44c3-ba4f-7b535ba3a029",
+            "url": "https://drafthouse.com/chicago/show/quest-for-camelot",
+            "title": "Quest for Camelot",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/quest-for-camelot/QUEST-FOR-CAMELOT_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 30</p>\n<p>Share the adventure, laughter, and song in a land where magic was born</p>",
+            "date_published": "2024-06-06T02:16:58+00:00"
         },
         {
             "id": "544bef6d-9f83-455b-ba2e-97d4ea60a1da",
