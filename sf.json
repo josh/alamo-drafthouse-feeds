@@ -13,6 +13,13 @@
             "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
+            "id": "834a882b-3dfc-4e1d-b2fa-a6dcc317c3e5",
+            "url": "https://drafthouse.com/sf/show/awakening-of-the-beast",
+            "title": "Awakening of the Beast",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/awakening-of-the-beast/awakening1.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.492&fp-y=0.1333&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 10</p>\n<p>A lysergic blast of sadism from Coffin Joe.</p>",
+            "date_published": "2024-06-09T23:05:17+00:00"
+        },
+        {
             "id": "a4865052-17dc-4665-8743-c534a65623aa",
             "url": "https://drafthouse.com/sf/show/babes",
             "title": "Babes",
@@ -258,6 +265,13 @@
             "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
+            "id": "1085fb3a-73da-4fe7-abe8-e59409c4f6ad",
+            "url": "https://drafthouse.com/sf/show/terror-tuesday-long-weekend1",
+            "title": "LONG WEEKEND",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/long-weekend/hero-long_weekend.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.0689&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 31</p>\n<p>Aussie matrimonial horror turns cosmic.</p>",
+            "date_published": "2024-06-09T23:05:17+00:00"
+        },
+        {
             "id": "f54037a2-152b-454a-a61a-77ae622af851",
             "url": "https://drafthouse.com/sf/show/the-adventures-of-priscilla-queen-of-the-desert",
             "title": "The Adventures of Priscilla, Queen of the Desert",
@@ -284,6 +298,13 @@
             "title": "The Brother from Another Planet",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-brother-from-another-planet/hero-brother-from-another-planet.png?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 7</p>\n<p>John Sayles' indie sci-fi smash.</p>",
             "date_published": "2024-06-09T21:05:00+00:00"
+        },
+        {
+            "id": "0005d746-998a-4a04-a6b6-ff3edab0edfc",
+            "url": "https://drafthouse.com/sf/show/the-living-dead-girl",
+            "title": "The Living Dead Girl",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-living-dead-girl/hero-living_dead_girl.jpg.png?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5391&fp-y=0.0781&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 23</p>\n<p>Another femme fantasqiue vampire jam from Jean Rollin.</p>",
+            "date_published": "2024-06-09T23:05:17+00:00"
         },
         {
             "id": "1f51e594-f215-4e52-a5c8-ff0da87de3a1",
@@ -347,13 +368,6 @@
             "title": "Vampire's Kiss",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/vampires-kiss/z0U8BFKFU0y23nnjmzn5MPrrEQU.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 21</p>\n<p>Seduction. Romance. Murder. The things one does for love...</p>",
             "date_published": "2024-06-03T09:34:15+00:00"
-        },
-        {
-            "id": "ba19747e-38bd-4e1e-b02e-a957f000e00f",
-            "url": "https://drafthouse.com/sf/show/weird-wednesday-awakening-of-the-beast",
-            "title": "AWAKENING OF THE BEAST",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/awakening-of-the-beast/awakening1.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.492&fp-y=0.1333&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 10</p>\n<p>A lysergic blast of sadism from Coffin Joe.</p>",
-            "date_published": "2024-06-09T22:05:33+00:00"
         }
     ]
 }
