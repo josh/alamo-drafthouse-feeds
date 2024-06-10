@@ -41,6 +41,13 @@
             "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
+            "id": "cdac3699-3459-467f-800a-6c7d05b62f0f",
+            "url": "https://drafthouse.com/sf/show/battle-royale-2000",
+            "title": "Battle Royale (2000)",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/battle-royale-2000/mW16h0OkY2O5WMnsHH559AgwyQJ.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 6</p>\n<p>Could you kill your best friend?</p>",
+            "date_published": "2024-06-10T03:05:39+00:00"
+        },
+        {
             "id": "d0a0f37f-0260-4ca0-abe8-f344a53b8bf4",
             "url": "https://drafthouse.com/sf/show/black-caesar",
             "title": "Black Caesar",
@@ -116,6 +123,13 @@
             "title": "Easy Rider",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/easy-rider/3CwDeFf0UWgRQYdB6trTOvOxrVU.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 29</p>\n<p>A man went looking for America. And couldn't find it anywhere...</p>",
             "date_published": "2024-06-06T07:05:58+00:00"
+        },
+        {
+            "id": "c3ff3e19-5c61-474b-adf6-bc8386b2f15c",
+            "url": "https://drafthouse.com/sf/show/electric-dreams",
+            "title": "Electric Dreams",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/electric-dreams/hero-electric-dreams.jpeg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 21</p>\n<p>A \ufefflove triangle between a man, a woman, and his computer!</p>",
+            "date_published": "2024-06-10T03:05:39+00:00"
         },
         {
             "id": "60b7920c-c5d0-47d9-a766-1ce372841e76",
@@ -279,6 +293,20 @@
             "date_published": "2024-06-06T08:06:48+00:00"
         },
         {
+            "id": "d26284ec-29b5-4f8e-bfbf-ef2672bec08e",
+            "url": "https://drafthouse.com/sf/show/on-deadly-ground",
+            "title": "On Deadly Ground",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/on-deadly-ground/9n1mp8HbkHgzbzi3tYnp1lRHSkT.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 14</p>\n<p>Steven Seagal goes green!</p>",
+            "date_published": "2024-06-10T03:05:39+00:00"
+        },
+        {
+            "id": "a6c2f737-6e3a-4fc8-a885-6bfe5874bb67",
+            "url": "https://drafthouse.com/sf/show/phantasm-ii",
+            "title": "PHANTASM II",
+            "content_html": "<p>Aug 13</p>\n<p>None</p>",
+            "date_published": "2024-06-10T03:05:39+00:00"
+        },
+        {
             "id": "70360940-0f54-4354-a5fa-d5fce66016e4",
             "url": "https://drafthouse.com/sf/show/robot-dreams",
             "title": "Robot Dreams",
@@ -300,6 +328,13 @@
             "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
+            "id": "52da0555-6a4d-400c-b5e8-59f8c3b45304",
+            "url": "https://drafthouse.com/sf/show/supergirl",
+            "title": "Supergirl",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/supergirl/supergirl-hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Her cousin is Superman!</p>",
+            "date_published": "2024-06-10T03:05:39+00:00"
+        },
+        {
             "id": "8c238ff3-3feb-4634-850c-d08c238541ce",
             "url": "https://drafthouse.com/sf/show/teen-witch",
             "title": "Teen Witch",
@@ -314,6 +349,13 @@
             "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
+            "id": "444327b1-8ff4-4eeb-b6e1-3be0c751997b",
+            "url": "https://drafthouse.com/sf/show/the-all-golden",
+            "title": "The All Golden",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-all-golden/hero-the_all_golden.png?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5314&fp-y=0.1207&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 28</p>\n<p>A pop art ouroboros from Fantastic Fest 2023.</p>",
+            "date_published": "2024-06-10T03:05:39+00:00"
+        },
+        {
             "id": "231dd6cf-f34a-4def-9f26-6b9f0f273a6d",
             "url": "https://drafthouse.com/sf/show/the-bikeriders",
             "title": "The Bikeriders",
@@ -326,6 +368,13 @@
             "title": "The Birdcage",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-birdcage/THE-BIRDCAGE-HERO-IMAGE.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.3624&fp-y=0.2679&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 15</p>\n<p>Robin Williams and Nathan Lane try to play it straight</p>",
             "date_published": "2024-06-03T09:34:15+00:00"
+        },
+        {
+            "id": "a2a55ec3-6861-420a-aa6e-de31a242bdd9",
+            "url": "https://drafthouse.com/sf/show/the-blackcoats-daughter",
+            "title": "The Blackcoat's Daughter",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-blackcoats-daughter/HeroImage_BlackcoatsDaughter.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 27</p>\n<p>A Satanic panic attack from A24</p>",
+            "date_published": "2024-06-10T03:05:39+00:00"
         },
         {
             "id": "ab02d6fc-e226-48b3-802f-8157a369c5d2",
