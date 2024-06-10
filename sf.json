@@ -13,6 +13,13 @@
             "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
+            "id": "b2bd3ae0-b557-4be8-a1a2-37d8935904b1",
+            "url": "https://drafthouse.com/sf/show/art-college-1994",
+            "title": "Art College 1994",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/art-college-1994/ART-COLLEGE-1994_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5213&fp-y=0.4296&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 4</p>\n<p>A group of Chinese art students in the 1990s begin their adulthood</p>",
+            "date_published": "2024-06-10T02:18:33+00:00"
+        },
+        {
             "id": "834a882b-3dfc-4e1d-b2fa-a6dcc317c3e5",
             "url": "https://drafthouse.com/sf/show/awakening-of-the-beast",
             "title": "Awakening of the Beast",
@@ -153,6 +160,20 @@
             "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
+            "id": "a18aaa1d-273c-49f5-932c-2270dfcbceec",
+            "url": "https://drafthouse.com/sf/show/harry-potter-and-the-chamber-of-secrets",
+            "title": "Harry Potter and the Chamber of Secrets",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/harry-potter-and-the-chamber-of-secrets/hp_chamber_of_secrets_sp_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.7076&fp-y=0.3336&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 25</p>\n<p>Something evil has returned to Hogwarts!</p>",
+            "date_published": "2024-06-10T02:18:33+00:00"
+        },
+        {
+            "id": "60c5da8c-b1f0-48c6-bfed-f086de029fc5",
+            "url": "https://drafthouse.com/sf/show/harry-potter-and-the-sorcerers-stone",
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/harry-potter-and-the-sorcerers-stone/hp_sorcerors_stone_sp_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5475&fp-y=0.0285&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 18</p>\n<p>We're headed to Platform 9 3/4 to start this magical journey from the beginning</p>",
+            "date_published": "2024-06-10T02:18:33+00:00"
+        },
+        {
             "id": "8d35e666-8dc3-4f7a-8826-cc715a39902e",
             "url": "https://drafthouse.com/sf/show/hollywood-90028",
             "title": "Hollywood 90028",
@@ -230,6 +251,13 @@
             "date_published": "2024-06-10T00:21:02+00:00"
         },
         {
+            "id": "909c9504-268c-478d-a2e4-90f6f03cea76",
+            "url": "https://drafthouse.com/sf/show/mikes-murder",
+            "title": "Mike's Murder",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/mikes-murder/hero-mikes_murder.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 26</p>\n<p>Debra Winger turns detective in this underrated L.A. noir.</p>",
+            "date_published": "2024-06-10T02:18:33+00:00"
+        },
+        {
             "id": "a2878647-976b-4f52-b0eb-a23b54ba363b",
             "url": "https://drafthouse.com/sf/show/multiple-maniacs",
             "title": "Multiple Maniacs",
@@ -256,6 +284,13 @@
             "title": "Robot Dreams",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/robot-dreams/ROBOT-DREAMS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 13</p>\n<p>DOG & ROBOT search for connection in this Academy Award-nominated feature</p>",
             "date_published": "2024-06-04T13:06:23+00:00"
+        },
+        {
+            "id": "a2478d43-ccf9-43cb-a367-220692c01ac9",
+            "url": "https://drafthouse.com/sf/show/russ-meyers-vixen",
+            "title": "Russ Meyer's Vixen!",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/russ-meyers-vixen/hero-vixen.png?auto=compress&crop=focalpoint&fit=crop&fp-x=0.502&fp-y=0.0766&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 24</p>\n<p>Prime cut exploitation from King Leer himself.</p>",
+            "date_published": "2024-06-10T02:18:33+00:00"
         },
         {
             "id": "86b3a4ab-93bb-4f67-8006-cae21007a787",
