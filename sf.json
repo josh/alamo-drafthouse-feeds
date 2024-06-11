@@ -48,11 +48,32 @@
             "date_published": "2024-06-10T03:05:39+00:00"
         },
         {
+            "id": "2ebfc0e5-4fcf-4182-904c-5f735b35cf33",
+            "url": "https://drafthouse.com/sf/show/beverly-hills-cop",
+            "title": "Beverly Hills Cop",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/beverly-hills-cop/BEVERLY-HILLS-COP_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 30</p>\n<p>In Detroit, a cop learns to take the heat. In L.A., he learns to keep his cool.</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
             "id": "d0a0f37f-0260-4ca0-abe8-f344a53b8bf4",
             "url": "https://drafthouse.com/sf/show/black-caesar",
             "title": "Black Caesar",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/black-caesar/BLACK-CAESAR_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 17</p>\n<p>Larry Cohen's gangster tragedy with a score by James Brown</p>",
             "date_published": "2024-06-06T09:06:24+00:00"
+        },
+        {
+            "id": "404dbe2b-d05c-4a62-ad4c-604922b2a65c",
+            "url": "https://drafthouse.com/sf/show/blood-simple",
+            "title": "Blood Simple.",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/blood-simple/Blood-Simple-Hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 29</p>\n<p>The masterpiece debut from Joel and Ethan Coen</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
+            "id": "0cc265f8-47a5-4c4b-b000-9dffcaad7ff7",
+            "url": "https://drafthouse.com/sf/show/body-double",
+            "title": "Body Double",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/body-double/BODY-DOUBLE_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 8</p>\n<p>Get unhitched with Brian De Palma's sleazy pop masterpiece</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
         },
         {
             "id": "acad7459-c612-4c5e-b595-682de794b80d",
@@ -74,6 +95,13 @@
             "title": "Chestnut",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/chestnut/Chestnut_FS_019.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 1</p>\n<p>Following college graduation, a woman finds herself in a love triangle</p>",
             "date_published": "2024-06-06T08:06:48+00:00"
+        },
+        {
+            "id": "bd20de32-ba8a-4c51-8c67-b5f7116a2eae",
+            "url": "https://drafthouse.com/sf/show/cloak-dagger-1984",
+            "title": "Cloak & Dagger (1984)",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/cloak-dagger-1984/aBAts8XVybr3Lao2gvyR8WmagKc.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 13</p>\n<p>His hero was imaginary...but the enemy agents were real!</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
         },
         {
             "id": "4a2e9504-3bcf-482d-a89f-53f4a2161eba",
@@ -111,6 +139,13 @@
             "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
+            "id": "b2c7d955-bca2-479e-9983-71f02daf6b2b",
+            "url": "https://drafthouse.com/sf/show/dune-1984",
+            "title": "Dune (1984)",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/dune-1984/DUNE-1984_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 2</p>\n<p>Spice up your life with David Lynch's whacked-out fantasy epic</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
             "id": "1caffa7a-a83d-40e5-a80a-c23d518b3cb9",
             "url": "https://drafthouse.com/sf/show/easy-rider",
             "title": "Easy Rider",
@@ -146,6 +181,20 @@
             "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
+            "id": "e2de1bf1-6c0e-48fb-9b93-2f54f6aaa7cc",
+            "url": "https://drafthouse.com/sf/show/firestarter",
+            "title": "Firestarter (1984)",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/firestarter/FIRESTARTER_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4671&fp-y=0.2766&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 12</p>\n<p>Will she have the power...to survive?</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
+            "id": "9b62fe43-5d34-4d6d-a823-259527e59cd1",
+            "url": "https://drafthouse.com/sf/show/footloose-1984",
+            "title": "Footloose (1984)",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/footloose-1984/MV5BNTc2M2ZlMGQtYWRkNy00NWUxLWFhZDctN2NlMTIwNmIwYzlkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1920.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 19</p>\n<p>The music is on his side</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
             "id": "279835e5-2d6b-41ce-93f5-45d19a0d82f7",
             "url": "https://drafthouse.com/sf/show/furiosa-a-mad-max-saga",
             "title": "Furiosa: A Mad Max Saga",
@@ -167,6 +216,20 @@
             "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
+            "id": "87f80f63-f796-4e28-b56b-a9c9fcdc3bda",
+            "url": "https://drafthouse.com/sf/show/grease",
+            "title": "Grease",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/grease/GREASE_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 25</p>\n<p>Summer lovin' lives on in this quintessential movie musical celebrating the '50s</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
+            "id": "0c1a23a9-714d-4d5b-ba17-43cd20056328",
+            "url": "https://drafthouse.com/sf/show/gremlins",
+            "title": "Gremlins",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/gremlins/GREMLINS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 13</p>\n<p>Your favorite little monsters invade Christmas, yet again</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
             "id": "a18aaa1d-273c-49f5-932c-2270dfcbceec",
             "url": "https://drafthouse.com/sf/show/harry-potter-and-the-chamber-of-secrets",
             "title": "Harry Potter and the Chamber of Secrets",
@@ -186,6 +249,13 @@
             "title": "Hollywood 90028",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/hollywood-90028/HOLLYWOOD-90028_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4043&fp-y=0.189&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 14</p>\n<p>The bizarre and terrifying story of a psychotic killer</p>",
             "date_published": "2024-06-03T09:34:15+00:00"
+        },
+        {
+            "id": "659c0568-0065-46f0-b2ae-f3a2d61a080a",
+            "url": "https://drafthouse.com/sf/show/hot-fuzz",
+            "title": "Hot Fuzz",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/hot-fuzz/zuskekrfW3gj9ttXNVhfdHe5n22.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 20</p>\n<p>Edgar Wright's silly deconstruction of the buddy cop genre</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
         },
         {
             "id": "6671a28c-7b2d-4c95-88bb-b782d52f839b",
@@ -221,6 +291,13 @@
             "title": "Indiana Jones and the Last Crusade",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/indiana-jones-and-the-last-crusade/last-crusade-image-01.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4916&fp-y=0.2676&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 16</p>\n<p>This time, he's bringing his dad</p>",
             "date_published": "2024-06-03T09:34:15+00:00"
+        },
+        {
+            "id": "5d0a49b1-4bc3-4ac9-887a-c1be8ffb081d",
+            "url": "https://drafthouse.com/sf/show/indiana-jones-and-the-temple-of-doom",
+            "title": "Indiana Jones and the Temple of Doom",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/indiana-jones-and-the-temple-of-doom/INDIANA-JONES-AND-THE-TEMPLE-OF-DOOM_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 11</p>\n<p>If adventure has a name, it must be Indiana Jones</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
         },
         {
             "id": "02c000af-71ad-4828-b078-32b3156cb669",
@@ -265,6 +342,13 @@
             "date_published": "2024-06-10T00:21:02+00:00"
         },
         {
+            "id": "e51be0f5-73dd-4bd1-aff6-6c29af8dbf4d",
+            "url": "https://drafthouse.com/sf/show/love-streams",
+            "title": "Love Streams",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/love-streams/LOVE-STREAMS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 6</p>\n<p>Two closely bound, emotionally wounded souls reunite after years apart</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
             "id": "909c9504-268c-478d-a2e4-90f6f03cea76",
             "url": "https://drafthouse.com/sf/show/mikes-murder",
             "title": "Mike's Murder",
@@ -284,6 +368,13 @@
             "title": "Wicked City",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/mystery-manga/MysteryManga01_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 19</p>\n<p>Some superheroes are cuter than others</p>",
             "date_published": "2024-06-03T09:34:15+00:00"
+        },
+        {
+            "id": "4fc9a72f-c473-478e-a942-a155ce6fbc81",
+            "url": "https://drafthouse.com/sf/show/nausicaa-of-the-valley-of-the-wind-subtitled",
+            "title": "Nausica\u00e4 of the Valley of the Wind (Subtitled)",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/nausicaa-of-the-valley-of-the-wind-subtitled/nausicaa_sp_still.jpeg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 15</p>\n<p>1000 years from now...the only hope for the future is in the hands of a princess</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
         },
         {
             "id": "07202533-ba13-4cb4-902c-89c9ecfcb160",
@@ -307,6 +398,27 @@
             "date_published": "2024-06-10T03:05:39+00:00"
         },
         {
+            "id": "7efbc124-d79f-4da0-9ba5-51b8a76c64cc",
+            "url": "https://drafthouse.com/sf/show/purple-rain",
+            "title": "Purple Rain",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/purple-rain/Purple-Rain-BD.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4581&fp-y=0.236&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 17</p>\n<p>Purify yourself in the waters of Lake Minnetonka</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
+            "id": "cbf5012d-5e1b-4453-9060-9cf5dd275a72",
+            "url": "https://drafthouse.com/sf/show/red-dawn-1984",
+            "title": "Red Dawn (1984)",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/red-dawn-1984/RED-DAWN-1984_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 6</p>\n<p>In our time, no foreign army has ever occupied American soil. Until now.</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
+            "id": "dc6383ee-e9b2-4a65-b2db-88fce2d990ed",
+            "url": "https://drafthouse.com/sf/show/repo-man",
+            "title": "Repo Man",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/repo-man/hzQ5k4NrwjafVCWSHG8r6wjEfSE.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 31</p>\n<p>Alex Cox's seminal surrealist punk frightmare</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
             "id": "70360940-0f54-4354-a5fa-d5fce66016e4",
             "url": "https://drafthouse.com/sf/show/robot-dreams",
             "title": "Robot Dreams",
@@ -328,6 +440,34 @@
             "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
+            "id": "2dfd4d59-5fe2-475c-8e68-9b332c9b3cd4",
+            "url": "https://drafthouse.com/sf/show/starman",
+            "title": "Starman",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/starman/fny1B9hmVilFtU3RRjkMZffBjUi.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 24</p>\n<p>John Carpenter's wildly underrated otherworldly sci-fi romance</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
+            "id": "d5598cb2-4bf1-4dd0-8e97-5899c40409a1",
+            "url": "https://drafthouse.com/sf/show/stranger-than-paradise",
+            "title": "Stranger than Paradise",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/stranger-than-paradise/STRANGER-THAN-PARADISE_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.6575&fp-y=0.2234&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 3</p>\n<p>A New Yorker's life is thrown into a tailspin when his younger cousin visits him</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
+            "id": "9ac8c439-d3ec-45af-9d2b-59ff952cb556",
+            "url": "https://drafthouse.com/sf/show/streets-of-fire",
+            "title": "Streets of Fire",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/streets-of-fire/streets_of_fire-hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4932&fp-y=0.2491&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 9</p>\n<p>Walter Hill's rock n' roll fable</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
+            "id": "dcc44fd8-09b8-4256-9051-13123c47b8d6",
+            "url": "https://drafthouse.com/sf/show/streetwise",
+            "title": "Streetwise",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/streetwise/STREETWISE_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.6527&fp-y=0.2216&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 24</p>\n<p>The streets - your only chance for life</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
             "id": "52da0555-6a4d-400c-b5e8-59f8c3b45304",
             "url": "https://drafthouse.com/sf/show/supergirl",
             "title": "Supergirl",
@@ -340,6 +480,13 @@
             "title": "Teen Witch",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/teen-witch/vRfo7aDU9k10G1FUSixOCPbcBmr.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5252&fp-y=0.2491&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 12</p>\n<p>What could truly top that?</p>",
             "date_published": "2024-06-03T09:34:15+00:00"
+        },
+        {
+            "id": "ea79e916-58ab-4f4c-a5e2-89383d92ff68",
+            "url": "https://drafthouse.com/sf/show/the-adventures-of-buckaroo-banzai-across-the-8th-dimension",
+            "title": "The Adventures of Buckaroo Banzai Across The 8th Dimension",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-adventures-of-buckaroo-banzai-across-the-8th-dimension/THE-ADVENTURES-OF-BUCKAROO-BANZAI_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 21</p>\n<p>You can't see them...but they can see you</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
         },
         {
             "id": "f54037a2-152b-454a-a61a-77ae622af851",
@@ -384,6 +531,20 @@
             "date_published": "2024-06-09T21:05:00+00:00"
         },
         {
+            "id": "66cd7d06-5ea3-4bcb-a893-047bba089fe7",
+            "url": "https://drafthouse.com/sf/show/the-company-of-wolves",
+            "title": "The Company of Wolves",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-company-of-wolves/8LMKwSUdHxU8AGPVY7BV4wS5TeQ.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 5</p>\n<p>A furry tale for grown-ups</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
+            "id": "7f128335-ac54-4461-be5a-518611e03753",
+            "url": "https://drafthouse.com/sf/show/the-cotton-club-encore",
+            "title": "The Cotton Club Encore",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-cotton-club-encore/portrait_191125_222427.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5025&fp-y=0.3715&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 10</p>\n<p>Francis Ford Coppola's Harlem-set, jazz-age crime epic is given new life</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
             "id": "0005d746-998a-4a04-a6b6-ff3edab0edfc",
             "url": "https://drafthouse.com/sf/show/the-living-dead-girl",
             "title": "The Living Dead Girl",
@@ -405,11 +566,25 @@
             "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
+            "id": "8bb1a490-1e19-43b7-9500-245982fea431",
+            "url": "https://drafthouse.com/sf/show/the-toxic-avenger",
+            "title": "The Toxic Avenger (1984)",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-toxic-avenger/The-Toxic-Avenger-BD.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5319&fp-y=0.1861&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 26</p>\n<p>Mop boy + toxic waste = benevolent monster</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
             "id": "14dc9950-697e-42b5-8a73-0ea79fd683de",
             "url": "https://drafthouse.com/sf/show/the-watchers",
             "title": "The Watchers",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-watchers/THE-WATCHERS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5329&fp-y=0.311&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>The woods are lovely, dark, and deep \u2013 and filled with voyeuristic monsters</p>",
             "date_published": "2024-06-03T09:34:15+00:00"
+        },
+        {
+            "id": "cbac99d0-2778-4ec4-b772-3700dfb93b2b",
+            "url": "https://drafthouse.com/sf/show/the-wizard-of-oz",
+            "title": "The Wizard of Oz (1939)",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/the-wizard-of-oz/zL4gtCeoPZkAFCKR0kNERpUiuPR.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 5</p>\n<p>Head back over the rainbow and re-experience the land of Oz</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
         },
         {
             "id": "a7b628e2-26d9-4077-9503-11d1a1aadd4a",
@@ -424,6 +599,13 @@
             "title": "Tie Me Up! Tie Me Down!",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/tie-me-up-tie-me-down/bjjrVTFUsCVCQneHXUpwaq0mtkM.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 24</p>\n<p>A love story...with strings attached</p>",
             "date_published": "2024-06-03T09:34:15+00:00"
+        },
+        {
+            "id": "4cd00b9f-9546-4456-b346-fbef8e75d1d1",
+            "url": "https://drafthouse.com/sf/show/top-secret",
+            "title": "Top Secret!",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/top-secret/94RlCD6aFlUNke6YvflCOSQ9Uwe.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 7</p>\n<p>From the makers of the original AIRPLANE! (Not the Wright Brothers)</p>",
+            "date_published": "2024-06-11T15:05:27+00:00"
         },
         {
             "id": "31cdd59d-fa57-49a8-9b59-b0a2e283013d",
