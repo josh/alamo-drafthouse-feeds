@@ -20,6 +20,13 @@
             "date_published": "2024-06-03T09:36:01+00:00"
         },
         {
+            "id": "2b8f8fd2-4b36-44f6-b9ff-76fa9f78b946",
+            "url": "https://drafthouse.com/chicago/show/apocalypse-now-final-cut",
+            "title": "Apocalypse Now: Final Cut",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/apocalypse-now-final-cut/apocalypse_now_sp_still.jpeg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Sep 2</p>\n<p>The horror...the horror...</p>",
+            "date_published": "2024-06-13T04:06:02+00:00"
+        },
+        {
             "id": "735faa2a-8401-4dbd-a1d3-a18ebf9abb4d",
             "url": "https://drafthouse.com/chicago/show/apollo-11",
             "title": "Apollo 11",
@@ -216,6 +223,13 @@
             "date_published": "2024-06-06T02:16:58+00:00"
         },
         {
+            "id": "543a07f3-9413-4ac9-902f-1d5be4c9ed58",
+            "url": "https://drafthouse.com/chicago/show/hearts-of-darkness-a-filmmakers-apocalypse",
+            "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/hearts-of-darkness-a-filmmakers-apocalypse/HEARTS-OF-DARKNESS_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Sep 2</p>\n<p>A behind-the-scenes look at the filming of APOCALYPSE NOW</p>",
+            "date_published": "2024-06-13T04:06:02+00:00"
+        },
+        {
             "id": "69ac8e43-490f-4675-aa6c-cbbe7585f53c",
             "url": "https://drafthouse.com/chicago/show/hit-man",
             "title": "Hit Man",
@@ -333,6 +347,13 @@
             "title": "Minions",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/minions/woEncYFTalbfPsJ2cbsj1X34mvs.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jun 24</p>\n<p>Hang out with Stuart, Kevin, and Bob before they met Gru</p>",
             "date_published": "2024-06-03T09:36:01+00:00"
+        },
+        {
+            "id": "2676f372-369b-4851-ad5f-f56d5962fbe3",
+            "url": "https://drafthouse.com/chicago/show/nausicaa-of-the-valley-of-the-wind-subtitled",
+            "title": "Nausica\u00e4 of the Valley of the Wind (Subtitled)",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/nausicaa-of-the-valley-of-the-wind-subtitled/nausicaa_sp_still.jpeg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 15</p>\n<p>1000 years from now...the only hope for the future is in the hands of a princess</p>",
+            "date_published": "2024-06-13T04:06:02+00:00"
         },
         {
             "id": "6cbf71d5-9c53-4d75-947c-404ef440bc20",
