@@ -356,6 +356,13 @@
             "date_published": "2024-06-03T09:36:02+00:00"
         },
         {
+            "id": "0b4484a3-6e05-492d-af6e-325f15d11d3d",
+            "url": "https://drafthouse.com/los-angeles/show/maxxxine",
+            "title": "MaXXXine",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/maxxxine/MAXXXINE_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4285&fp-y=0.1718&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 5</p>\n<p>Take home a gruesome MAXXXINE souvenir with our THE PURITAN II VHS Case</p>",
+            "date_published": "2024-06-13T23:05:11+00:00"
+        },
+        {
             "id": "6c5380f4-f55a-4f81-828e-0da0195997db",
             "url": "https://drafthouse.com/los-angeles/show/minions",
             "title": "Minions",
@@ -585,13 +592,6 @@
             "title": "Top Secret!",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/top-secret/94RlCD6aFlUNke6YvflCOSQ9Uwe.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 7</p>\n<p>From the makers of the original AIRPLANE! (Not the Wright Brothers)</p>",
             "date_published": "2024-06-11T15:05:27+00:00"
-        },
-        {
-            "id": "1a4d0875-8537-4c6d-ac2f-640ba9d9a5ee",
-            "url": "https://drafthouse.com/los-angeles/show/trim-season",
-            "title": "Trim Season",
-            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/trim-season/TRIM-SEASON_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Workers at a secluded marijuana farm realize the owner is harboring dark secrets</p>",
-            "date_published": "2024-06-03T09:36:02+00:00"
         },
         {
             "id": "6a12b50d-ae74-4919-8b77-50c3d78348cf",
