@@ -83,7 +83,7 @@ jobs:
         id: artifact-checksum
         run: |
           echo -n "checksum=" >>"$GITHUB_ENV"
-          tar --sort=name -cf - public/ | sha256sum | awk '{print $1}' | tee .checksum | tee -a "$GITHUB_ENV"
+          tar --mtime='1970-01-01' --sort=name -cf - public/ | sha256sum | awk '{print $1}' | tee .checksum | tee -a "$GITHUB_ENV"
           mv .checksum public/
 
       - name: Upload artifact
