@@ -29,8 +29,8 @@ jobs:
           ref: "gh-pages"
           path: "public"
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
+      # - name: Setup Pages
+      #   uses: actions/configure-pages@v5
 
       - name: Set up Python
         uses: actions/setup-python@v5
