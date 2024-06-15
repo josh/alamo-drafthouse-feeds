@@ -82,9 +82,10 @@ jobs:
       - name: Compute checksum
         id: artifact-checksum
         run: |
+          sha256sum * | sort | sha256sum | awk '{print $1}' >"$RUNNER_TEMP/checksum"
           echo -n "checksum=" >>"$GITHUB_OUTPUT"
-          tar --sort=name --owner=root:0 --group=root:0 --mtime='1970-01-01' -cf - public/ | sha256sum | awk '{print $1}' | tee .checksum | tee -a "$GITHUB_OUTPUT"
-          mv .checksum public/
+          tee "$RUNNER_TEMP/checksum" | tee .checksum | tee -a "$GITHUB_OUTPUT"
+        working-directory: public/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
