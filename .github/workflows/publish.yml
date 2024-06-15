@@ -77,14 +77,14 @@ jobs:
         id: deployed-checksum
         run: |
           curl -s https://josh.github.io/alamo-drafthouse-feeds/.checksum | tee "$RUNNER_TEMP/checksum"
-          (echo -n "checksum=" ; cat .checksum) >>"$GITHUB_OUTPUT"
+          (echo -n "checksum=" ; cat "$RUNNER_TEMP/checksum") >>"$GITHUB_OUTPUT"
 
       - name: Compute checksum
         id: artifact-checksum
         run: |
           sha256sum ./* | sort | sha256sum | awk '{print $1}' | tee "$RUNNER_TEMP/checksum"
+          (echo -n "checksum=" ; cat "$RUNNER_TEMP/checksum") >>"$GITHUB_OUTPUT"
           mv "$RUNNER_TEMP/checksum" .checksum
-          (echo -n "checksum=" ; cat .checksum) >>"$GITHUB_OUTPUT"
         working-directory: public/
 
       - name: Upload artifact
