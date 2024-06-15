@@ -13,6 +13,13 @@
             "date_published": "2024-06-03T09:34:15+00:00"
         },
         {
+            "id": "6f83a971-4aa9-4762-ade9-13e409df8d0a",
+            "url": "https://drafthouse.com/sf/show/amityville-dollhouse",
+            "title": "Amityville: Dollhouse",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/amityville-dollhouse/Dollhouse-Hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 20</p>\n<p>Don't miss a 4K restoration of a truly WTF!?! sequel</p>",
+            "date_published": "2024-06-15T00:19:36+00:00"
+        },
+        {
             "id": "b2bd3ae0-b557-4be8-a1a2-37d8935904b1",
             "url": "https://drafthouse.com/sf/show/art-college-1994",
             "title": "Art College 1994",
@@ -424,6 +431,13 @@
             "title": "Streetwise",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/streetwise/STREETWISE_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.6527&fp-y=0.2216&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 24</p>\n<p>The streets - your only chance for life</p>",
             "date_published": "2024-06-11T15:05:27+00:00"
+        },
+        {
+            "id": "c3ba4b23-9e0a-44f1-8263-bc980669076a",
+            "url": "https://drafthouse.com/sf/show/suburbia",
+            "title": "Suburbia",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/suburbia/hero_suburbia.jpeg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.508&fp-y=0.06&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 7</p>\n<p>Take a walk on the wild side.</p>",
+            "date_published": "2024-06-15T00:19:36+00:00"
         },
         {
             "id": "52da0555-6a4d-400c-b5e8-59f8c3b45304",
