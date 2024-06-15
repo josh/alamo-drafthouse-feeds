@@ -71,7 +71,7 @@ jobs:
 
       - name: Compute checksum
         run: |
-          tar --sort=name -cf - public/ | sha256sum | awk '{print $1}' >.checksum
+          tar --sort=name -cf - public/ | sha256sum | awk '{print $1}' | tee .checksum
           mv .checksum public/
 
       - name: Upload artifact
