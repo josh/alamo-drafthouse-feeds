@@ -14,6 +14,10 @@ jobs:
       # Used for git push
       contents: write
 
+    outputs:
+      deployed-checksum: ${{ steps.deployed-checksum.outputs.checksum }}
+      artifact-checksum: ${{ steps.artifact-checksum.outputs.checksum }}
+
     runs-on: ubuntu-latest
 
     steps:
@@ -69,9 +73,17 @@ jobs:
         run: git push origin refs/heads/gh-pages
         working-directory: public/
 
+      - name: Fetch deployed checksum
+        id: deployed-checksum
+        run: |
+          echo -n "checksum=" >>"$GITHUB_ENV"
+          curl -s https://josh.github.io/alamo-drafthouse-feeds/.checksum | tee -a "$GITHUB_ENV"
+
       - name: Compute checksum
+        id: artifact-checksum
         run: |
           tar --sort=name -cf - public/ | sha256sum | awk '{print $1}' | tee .checksum
+          (echo -n "checksum=" ; cat .checksum) >>"$GITHUB_ENV"
           mv .checksum public/
 
       - name: Upload artifact
