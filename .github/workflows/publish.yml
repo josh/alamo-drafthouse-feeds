@@ -5,19 +5,16 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
 
 jobs:
-  publish:
-    runs-on: ubuntu-latest
-    concurrency: publish
+  build:
+    permissions:
+      # Used for git push
+      contents: write
 
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout main branch
@@ -82,6 +79,20 @@ jobs:
         with:
           path: public/
 
+  deploy:
+    needs: build
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
