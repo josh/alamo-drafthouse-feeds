@@ -76,14 +76,14 @@ jobs:
       - name: Fetch deployed checksum
         id: deployed-checksum
         run: |
-          echo -n "checksum=" >>"$GITHUB_ENV"
-          curl -s https://josh.github.io/alamo-drafthouse-feeds/.checksum | tee -a "$GITHUB_ENV"
+          echo -n "checksum=" >>"$GITHUB_OUTPUT"
+          curl -s https://josh.github.io/alamo-drafthouse-feeds/.checksum | tee -a "$GITHUB_OUTPUT"
 
       - name: Compute checksum
         id: artifact-checksum
         run: |
-          echo -n "checksum=" >>"$GITHUB_ENV"
-          tar --mtime='1970-01-01' --sort=name -cf - public/ | sha256sum | awk '{print $1}' | tee .checksum | tee -a "$GITHUB_ENV"
+          echo -n "checksum=" >>"$GITHUB_OUTPUT"
+          tar --mtime='1970-01-01' --sort=name -cf - public/ | sha256sum | awk '{print $1}' | tee .checksum | tee -a "$GITHUB_OUTPUT"
           mv .checksum public/
 
       - name: Upload artifact
