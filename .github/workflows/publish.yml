@@ -93,7 +93,7 @@ jobs:
 
   deploy:
     needs: build
-    if: ${{ needs.build.outputs.deployed-checksum != needs.build.outputs.artifact-checksum }}
+    # if: ${{ needs.build.outputs.deployed-checksum != needs.build.outputs.artifact-checksum }}
 
     permissions:
       pages: write
@@ -106,6 +106,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - run: |
+          echo "${{ needs.build.outputs.deployed-checksum }}"
+          echo "${{ needs.build.outputs.artifact-checksum }}"
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
