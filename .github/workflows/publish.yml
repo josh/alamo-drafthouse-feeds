@@ -82,8 +82,8 @@ jobs:
       - name: Compute checksum
         id: artifact-checksum
         run: |
-          tar --sort=name -cf - public/ | sha256sum | awk '{print $1}' | tee .checksum
-          (echo -n "checksum=" ; cat .checksum) >>"$GITHUB_ENV"
+          echo -n "checksum=" >>"$GITHUB_ENV"
+          tar --sort=name -cf - public/ | sha256sum | awk '{print $1}' | tee .checksum | tee -a "$GITHUB_ENV"
           mv .checksum public/
 
       - name: Upload artifact
@@ -93,6 +93,7 @@ jobs:
 
   deploy:
     needs: build
+    if: ${{ needs.build.outputs.deployed-checksum != needs.build.outputs.artifact-checksum }}
 
     permissions:
       pages: write
