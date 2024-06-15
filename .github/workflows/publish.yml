@@ -83,8 +83,9 @@ jobs:
         id: artifact-checksum
         run: |
           sha256sum * | sort | sha256sum | awk '{print $1}' >"$RUNNER_TEMP/checksum"
+          mv "$RUNNER_TEMP/checksum" .checksum
           echo -n "checksum=" >>"$GITHUB_OUTPUT"
-          tee "$RUNNER_TEMP/checksum" | tee .checksum | tee -a "$GITHUB_OUTPUT"
+          cat .checksum >>"$GITHUB_OUTPUT"
         working-directory: public/
 
       - name: Upload artifact
