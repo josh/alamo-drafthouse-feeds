@@ -7,11 +7,17 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   publish:
     runs-on: ubuntu-latest
     concurrency: publish
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout main branch
@@ -22,6 +28,9 @@ jobs:
         with:
           ref: "gh-pages"
           path: "public"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -56,8 +65,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name 'GitHub Actions'
-          git config user.email 'actions@users.noreply.github.com'
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
           git commit --message "Update feeds" || true
         working-directory: public/
@@ -65,3 +74,12 @@ jobs:
       - name: Push changes
         run: git push origin refs/heads/gh-pages
         working-directory: public/
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
