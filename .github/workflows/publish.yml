@@ -75,6 +75,11 @@ jobs:
         run: git push origin refs/heads/gh-pages
         working-directory: public/
 
+      - name: Compute checksum
+        run: |
+          tar --sort=name -cf - public/ | sha256sum | awk '{print $1}' >.checksum
+          mv .checksum public/
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
