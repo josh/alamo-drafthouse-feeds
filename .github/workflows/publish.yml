@@ -59,7 +59,7 @@ jobs:
         env:
           CACHE_PATH: cache.pickle
           CACHE_MAX: 1000
-          REGIONS: chicago,los-angeles,nyc,sf
+          REGIONS: ${{ vars.REGIONS }}
 
       - name: Commit changes
         run: |
