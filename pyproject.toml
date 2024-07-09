@@ -1,5 +1,10 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
 [project]
 name = "alamo-drafthouse-feeds"
+version = "0.1.0"
 description = "JSON feeds for Alamo Drafthouse showings"
 readme = "README.md"
 authors = [{name = "Joshua Peek"}]
@@ -19,6 +24,15 @@ dev = [
     "ruff>=0.3.0",
     "types-requests>=2.0.0,<3.0",
 ]
+
+[project.scripts]
+drafthouse = "drafthouse:main"
+
+[tool.hatch.build.targets.wheel.force-include]
+"drafthouse.py" = "drafthouse/__init__.py"
+
+[tool.hatch.metadata]
+allow-direct-references = true
 
 [tool.ruff.lint]
 extend-select = ["I", "UP"]
