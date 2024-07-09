@@ -19,7 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          uv pip install --system --requirement requirements.txt
+          uv pip install --system --constraint requirements.txt '.'
 
       - name: Load cache
         uses: actions/cache@v4
@@ -30,7 +30,7 @@ jobs:
             cache-
 
       - name: Test SF feed
-        run: python3 drafthouse.py sf
+        run: drafthouse sf
         env:
           CACHE_PATH: cache.pickle
           CACHE_MAX: 1000
