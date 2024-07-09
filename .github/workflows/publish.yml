@@ -40,7 +40,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          uv pip install --system --requirement requirements.txt
+          uv pip install --system --constraint requirements.txt '.'
 
       - name: Load cache
         uses: actions/cache@v4
@@ -54,7 +54,7 @@ jobs:
         run: |
           IFS=',' read -r -a regions_array <<< "$REGIONS"
           for region in "${regions_array[@]}"; do
-            python drafthouse.py "$region" --output-file "public/$region.json"
+              drafthouse "$region" --output-file "public/$region.json"
           done
         env:
           CACHE_PATH: cache.pickle
