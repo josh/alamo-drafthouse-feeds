@@ -62,6 +62,13 @@
             "date_published": "2024-06-11T15:05:27+00:00"
         },
         {
+            "id": "d56d12e9-2184-40dd-8961-a535c5ff096f",
+            "url": "https://drafthouse.com/sf/show/catvideofest-2024",
+            "title": "CatVideoFest 2024",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/catvideofest-2024/CATVIDEOFEST-2024_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4314&fp-y=0.3643&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Aug 17</p>\n<p>Come watch some silly cat videos for a good cause</p>",
+            "date_published": "2024-07-24T07:05:36+00:00"
+        },
+        {
             "id": "75aa8188-fdf3-40f1-9dfd-859aeccf8949",
             "url": "https://drafthouse.com/sf/show/cuckoo",
             "title": "Cuckoo",
@@ -263,6 +270,13 @@
             "title": "Sing-a-Long-a The Greatest Showman",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/sing-a-long-a-the-greatest-showman/THE-GREATEST-SHOWMAN-Singalonga_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Oct 2</p>\n<p>Ladies and gents, this is the movie party you've waited for</p>",
             "date_published": "2024-07-05T06:06:29+00:00"
+        },
+        {
+            "id": "1481de1c-fbd4-48c8-91aa-2972fdfac75e",
+            "url": "https://drafthouse.com/sf/show/sing-sing",
+            "title": "Sing Sing",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/sing-sing/SING-SING_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5821&fp-y=0.2629&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Jul 9</p>\n<p>Prisoners find freedom through art in A24's powerful tale of redemption</p>",
+            "date_published": "2024-06-28T13:06:35+00:00"
         },
         {
             "id": "2dfd4d59-5fe2-475c-8e68-9b332c9b3cd4",
