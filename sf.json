@@ -111,6 +111,27 @@
             "date_published": "2024-06-10T02:18:33+00:00"
         },
         {
+            "id": "eddf2544-c97a-4063-b0b9-5e842676b163",
+            "url": "https://drafthouse.com/sf/show/harry-potter-and-the-goblet-of-fire",
+            "title": "Harry Potter and the Goblet of Fire",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/harry-potter-and-the-goblet-of-fire/hp_goblet_of_fire_sp_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.2051&fp-y=0.1167&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Sep 8</p>\n<p>Everything is about to change</p>",
+            "date_published": "2024-08-08T11:05:43+00:00"
+        },
+        {
+            "id": "cde164b4-cbfc-4868-86cd-4ddc08e9f3fb",
+            "url": "https://drafthouse.com/sf/show/harry-potter-and-the-half-blood-prince",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/harry-potter-and-the-half-blood-prince/hp_half_blood_prince_sp_hero.jpeg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4313&fp-y=0.1477&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Sep 22</p>\n<p>Dark secrets revealed</p>",
+            "date_published": "2024-08-08T11:05:43+00:00"
+        },
+        {
+            "id": "85320864-e0d7-4077-b9c6-097e09601fe1",
+            "url": "https://drafthouse.com/sf/show/harry-potter-and-the-order-of-the-phoenix",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/harry-potter-and-the-order-of-the-phoenix/hp_order_of_the_phoenix_sp_hero.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4811&fp-y=0.0418&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Sep 15</p>\n<p>Evil must be confronted</p>",
+            "date_published": "2024-08-08T11:05:43+00:00"
+        },
+        {
             "id": "123c6ed5-8eba-4d28-a992-1604f805e677",
             "url": "https://drafthouse.com/sf/show/harry-potter-and-the-prisoner-of-azkaban",
             "title": "Harry Potter and the Prisoner of Azkaban",
@@ -237,6 +258,13 @@
             "date_published": "2024-06-11T15:05:27+00:00"
         },
         {
+            "id": "02085945-9070-444e-b6ac-4c8669104c1c",
+            "url": "https://drafthouse.com/sf/show/stripped-to-kill",
+            "title": "Stripped to Kill",
+            "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/stripped-to-kill/StrippedToKill1.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Sep 24</p>\n<p>A Maniac is Killing Strippers. Det. Sheehan Has A Weapon to Stop Him. Her Body.</p>",
+            "date_published": "2024-08-08T11:05:43+00:00"
+        },
+        {
             "id": "52da0555-6a4d-400c-b5e8-59f8c3b45304",
             "url": "https://drafthouse.com/sf/show/supergirl",
             "title": "Supergirl",
@@ -312,6 +340,13 @@
             "title": "USHER: Rendezvous in Paris",
             "content_html": "<img src=\"https://img-assets.drafthouse.com/images/shows/usher-rendezvous-in-paris/USHER-RENDEZVOUS-IN-PARIS_hero2.jpg?auto=compress&crop=focalpoint&fit=crop&fp-x=0.4981&fp-y=0.2148&h=1080&q=80&w=1920\" height=\"1080\" width=\"1920\" style=\"max-width:564px\">\n<p>Sep 12</p>\n<p>Witness USHER's concert during Paris Fashion Week spanning his 30-year career</p>",
             "date_published": "2024-08-06T15:06:03+00:00"
+        },
+        {
+            "id": "2595d6d8-a36b-4219-aed5-8411c678b014",
+            "url": "https://drafthouse.com/sf/show/weird-wednesday-basic-instinct",
+            "title": "BASIC INSTINCT",
+            "content_html": "<p>Sep 25</p>\n<p>Over the top sex and violence in 35mm!</p>",
+            "date_published": "2024-08-08T11:05:43+00:00"
         }
     ]
 }
