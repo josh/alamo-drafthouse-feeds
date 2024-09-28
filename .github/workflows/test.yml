@@ -20,16 +20,5 @@ jobs:
         run: |
           uv pip install --system --constraint requirements.txt '.'
 
-      - name: Load cache
-        uses: actions/cache@v4
-        with:
-          path: cache.pickle
-          key: cache-${{ github.run_id }}
-          restore-keys: |
-            cache-
-
       - name: Test SF feed
         run: drafthouse sf
-        env:
-          CACHE_PATH: cache.pickle
-          CACHE_MAX: 1000
