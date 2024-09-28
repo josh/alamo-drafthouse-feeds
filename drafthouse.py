@@ -1,6 +1,7 @@
 import io
 import json
 import logging
+import urllib.request
 from datetime import UTC, date, datetime
 from pathlib import Path
 from typing import Any, Literal, TypedDict
@@ -8,7 +9,6 @@ from uuid import uuid4
 
 import click
 import lru_cache
-import requests
 
 
 class FeedItem(TypedDict):
@@ -70,8 +70,7 @@ def main(
 
     api_url = f"https://drafthouse.com/s/mother/v2/schedule/market/{market}"
     logger.info("Fetch %s", api_url)
-    r = requests.get(api_url)
-    data = r.json()
+    data = _get_json(api_url)
 
     market_obj = data["data"]["market"][0]
     market_slug = market_obj["slug"]
@@ -147,6 +146,25 @@ def main(
     cache.close()
 
     json.dump(feed, output_file, indent=4)
+
+
+_HTTP_HEADERS = {
+    "Accept": "application/json, text/plain, */*",
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/605.1.15 (KHTML, like Gecko) "
+        "Version/18.0 "
+        "Safari/605.1.15"
+    ),
+}
+
+
+def _get_json(url: str) -> Any:
+    req = urllib.request.Request(url, headers=_HTTP_HEADERS)
+    with urllib.request.urlopen(req, timeout=10) as response:
+        data = response.read()
+        assert isinstance(data, bytes)
+        return json.loads(data)
 
 
 def _rfc3339_now() -> str:
