@@ -52,21 +52,25 @@ _MARKETS = [
     "--cache-path",
     envvar="CACHE_PATH",
     type=click.Path(writable=True, path_type=Path),
-    required=True,
+    required=False,
 )
 @click.option("--cache-max", envvar="CACHE_MAX", type=int, default=100)
 @click.option("--verbose", "-v", is_flag=True)
 def main(
     market: str,
     output_file: io.TextIOWrapper,
-    cache_path: Path,
+    cache_path: Path | None,
     cache_max: int,
     verbose: bool,
 ) -> None:
     log_level = logging.DEBUG if verbose else logging.INFO
     logging.basicConfig(level=log_level)
 
-    cache = lru_cache.open(cache_path, max_items=cache_max)
+    cache: lru_cache.LRUCache
+    if cache_path:
+        cache = lru_cache.open(cache_path, max_items=cache_max)
+    else:
+        cache = lru_cache.LRUCache(max_items=cache_max)
 
     api_url = f"https://drafthouse.com/s/mother/v2/schedule/market/{market}"
     logger.info("Fetch %s", api_url)
@@ -143,7 +147,9 @@ def main(
         feed["items"].append(item)
 
     assert len(feed["items"]) > 0, "No items found"
-    cache.close()
+
+    if isinstance(cache, lru_cache.PersistentLRUCache):
+        cache.close()
 
     json.dump(feed, output_file, indent=4)
 
