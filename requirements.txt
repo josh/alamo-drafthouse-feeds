@@ -8,7 +8,7 @@ mypy==1.11.2
     # via alamo-drafthouse-feeds (pyproject.toml)
 mypy-extensions==1.0.0
     # via mypy
-ruff==0.6.8
+ruff==0.6.9
     # via alamo-drafthouse-feeds (pyproject.toml)
 typing-extensions==4.12.2
     # via mypy
