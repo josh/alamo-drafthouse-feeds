@@ -3,6 +3,7 @@ name: Publish
 on:
   schedule:
     - cron: "0 * * * *"
+    - cron: "*/15 8-9 * * 2"
   workflow_dispatch:
 
 concurrency:
