@@ -10,5 +10,5 @@ mypy-extensions==1.0.0
     # via mypy
 ruff==0.11.0
     # via alamo-drafthouse-feeds (pyproject.toml)
-typing-extensions==4.13.1
+typing-extensions==4.13.2
     # via mypy
