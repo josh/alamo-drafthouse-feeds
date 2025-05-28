@@ -76,9 +76,11 @@ def main(
     logger.info("Fetch %s", api_url)
     data = _get_json(api_url)
 
-    market_obj = data["data"]["market"][0]
-    market_slug = market_obj["slug"]
-    market_name = market_obj["name"]
+    market_slug = market
+    market_name = market
+    if market_obj := data["data"].get("market", []):
+        market_slug = market_obj[0]["slug"]
+        market_name = market_obj[0]["name"]
 
     feed: Feed = {
         "version": "https://jsonfeed.org/version/1.1",
