@@ -21,16 +21,10 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version-file: "pyproject.toml"
-
       - uses: astral-sh/setup-uv@v6
 
       - name: Install dependencies
-        run: |
-          uv pip install --system --constraint requirements.txt '.'
+        run: uv sync
 
       - name: Load cache
         uses: actions/cache@v4
@@ -45,7 +39,7 @@ jobs:
           mkdir -p public/
           IFS=',' read -r -a regions_array <<< "$REGIONS"
           for region in "${regions_array[@]}"; do
-              drafthouse "$region" --output-file "public/$region.json"
+              uv run drafthouse "$region" --output-file "public/$region.json"
           done
         env:
           CACHE_PATH: cache.pickle
