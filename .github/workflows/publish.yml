@@ -49,7 +49,7 @@ jobs:
       - name: Fetch deployed checksum
         id: deployed-checksum
         run: |
-          curl -s https://josh.github.io/alamo-drafthouse-feeds/.checksum | tee "$RUNNER_TEMP/checksum"
+          curl -s https://josh.github.io/alamo-drafthouse-feeds/checksum | tee "$RUNNER_TEMP/checksum"
           (echo -n "checksum=" ; cat "$RUNNER_TEMP/checksum") >>"$GITHUB_OUTPUT"
 
       - name: Compute checksum
@@ -57,7 +57,7 @@ jobs:
         run: |
           sha256sum ./* | sort | sha256sum | awk '{print $1}' | tee "$RUNNER_TEMP/checksum"
           (echo -n "checksum=" ; cat "$RUNNER_TEMP/checksum") >>"$GITHUB_OUTPUT"
-          mv "$RUNNER_TEMP/checksum" .checksum
+          mv "$RUNNER_TEMP/checksum" checksum
         working-directory: public/
 
       - name: Upload artifact
