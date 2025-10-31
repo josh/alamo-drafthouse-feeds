@@ -1,30 +1,34 @@
 [build-system]
-requires = ["hatchling"]
 build-backend = "hatchling.build"
+requires = [ "hatchling" ]
 
 [project]
 name = "alamo-drafthouse-feeds"
 version = "0.1.0"
 description = "JSON feeds for Alamo Drafthouse showings"
 readme = "README.md"
-authors = [{name = "Joshua Peek"}]
+authors = [ { name = "Joshua Peek" } ]
 requires-python = ">=3.11"
-dependencies = [
-    "click>=8.1.1,<9.0",
-    "lru-cache @ https://github.com/josh/lru-cache-python/releases/download/v1.0.1/lru_cache-1.0.1-py3-none-any.whl",
-]
 classifiers = [
     "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
 ]
+
+dependencies = [
+    "click>=8.1.1,<9",
+    "lru-cache @ https://github.com/josh/lru-cache-python/releases/download/v1.0.1/lru_cache-1.0.1-py3-none-any.whl",
+]
+scripts.drafthouse = "drafthouse:main"
 
 [dependency-groups]
 dev = [
-    "mypy>=1.0.0,<2.0",
-    "ruff>=0.3.0",
+    "mypy>=1,<2",
+    "ruff>=0.3",
 ]
-
-[project.scripts]
-drafthouse = "drafthouse:main"
 
 [tool.hatch.build.targets.wheel.force-include]
 "drafthouse.py" = "drafthouse/__init__.py"
@@ -32,8 +36,11 @@ drafthouse = "drafthouse:main"
 [tool.hatch.metadata]
 allow-direct-references = true
 
-[tool.ruff.lint]
-extend-select = ["I", "UP"]
+[tool.ruff]
+lint.extend-select = [ "I", "UP" ]
+
+[tool.pyproject-fmt]
+indent = 4
 
 [tool.mypy]
 strict = true
