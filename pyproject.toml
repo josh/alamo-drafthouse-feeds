@@ -20,7 +20,7 @@ classifiers = [
 
 dependencies = [
     "click>=8.1.1,<9",
-    "lru-cache @ https://github.com/josh/lru-cache-python/releases/download/v1.0.1/lru_cache-1.0.1-py3-none-any.whl",
+    "lru-cache @ https://github.com/josh/lru-cache-python/releases/download/v1.0.2/lru_cache-1.0.2-py3-none-any.whl",
 ]
 scripts.drafthouse = "drafthouse:main"
 
