@@ -28,7 +28,7 @@ scripts.drafthouse = "drafthouse:main"
 [dependency-groups]
 dev = [
     "mypy>=1,<2",
-    "ruff>=0.3",
+    "ruff>=0.3,<2",
 ]
 
 [tool.hatch.build.targets.wheel.force-include]
